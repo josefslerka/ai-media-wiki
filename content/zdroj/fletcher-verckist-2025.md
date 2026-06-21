@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Fletcher & Verckist (2025) — BBC / EBU
 
 **Plná citace:** Fletcher, J. & Verckist, D. (2025). „News Integrity in AI Assistants:
 An International PSM Study." BBC / EBU, říjen 2025.

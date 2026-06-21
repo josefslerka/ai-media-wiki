@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Benedek & Sziklai (2025) — over-reliance ve vzdělávání
 
 **Plná citace:** Benedek, M. a Sziklai, B. R. (2025). „Impact of AI Tools on Learning
 Outcomes: Decreasing Knowledge and Over-Reliance." Corvinus University of Budapest.

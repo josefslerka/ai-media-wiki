@@ -5,7 +5,6 @@ tags: [platforma, vyhledávání]
 updated: 2026-06-21
 publish: true
 ---
-# Google
 
 Dominantní vyhledávač, který propojuje **vyhledávání, crawling a generativní AI**
 (AI Overviews, AI Mode, model Gemini). Tato kombinace stojí v jádru sporu o kontrolu

@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [tejedor-vila-2021, wu-2024, cools-diakopoulos-2024, doshi-hauser-2024, sanchez-munoz-2026, zhao-berman-2025, nfnz-debata]
 publish: true
 ---
-# Exo-žurnalistika
 
 Pracovní model, kde AI funguje jako **asistenční vrstva**, ne náhrada autorství. Rutinní,
 datově náročné procesy přebírá stroj; zjišťování, ověřování, interpretace a zveřejnění

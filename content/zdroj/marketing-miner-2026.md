@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Marketing Miner (2026) — AI viditelnost značek v ČR
 
 **Plná citace:** Marketing Miner (2026). „Výzkum AI viditelnosti značek v ČR. 400 000 otázek
 a odpovědí." duben 2026.

@@ -7,7 +7,6 @@ rok: 2023
 updated: 2026-06-21
 publish: true
 ---
-# Sandrini & Somogyi (2023) — generativní AI a klamavé zprávy
 
 **Plná citace:** Sandrini, L. & Somogyi, R. (2023). „Generative AI and deceptive news
 consumption." *Economics Letters*, 232, 111317. DOI: 10.1016/j.econlet.2023.111317

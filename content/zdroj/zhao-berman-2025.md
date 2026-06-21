@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Zhao & Berman (2025)
 
 **Plná citace:** Zhao, H. & Berman, R. (2025/2026). „Strategic Response of News Publishers to
 Generative AI." arXiv: 2512.24968 (v4, 4/2026). Rutgers Business School / Wharton.

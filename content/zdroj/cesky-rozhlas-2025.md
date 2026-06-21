@@ -7,14 +7,13 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Český rozhlas (2025) — test AI asistentů (EBU), zkreslení ve 45 %
 
 **Plná citace:** Český rozhlas (2025). „Nejrozsáhlejší studie svého druhu: AI asistenti
 zkreslují zpravodajský obsah ve 45 procentech případů." *informace.rozhlas.cz*, 29. 10. 2025.
 **Odkaz:** https://informace.rozhlas.cz/nejrozsahlejsi-studie-sveho-druhu-ai-asistenti-zkresluji-zpravodajsky-obsah-ve-9570991
 
 ## Klíčová zjištění
-- Referuje studii [[bbc-ebu|BBC/EBU]] ([[fletcher-verckist-2025]]): 22 PSM/18 zemí/14 jazyků
+- Referuje studii [[bbc-ebu|BBC a EBU]] ([[fletcher-verckist-2025]]): 22 PSM/18 zemí/14 jazyků
   (vč. ČRo), **45 %** odpovědí se závažnou chybou, **31 % sourcing**, 20 % faktické; Gemini
   selhal v **76 %**. Citováni Poliaková, René Zavoral (gen. ředitel ČRo), De Tender (EBU).
 - **Konkrétní české příklady:** Perplexity tvrdil, že **náhradní mateřství je v ČR zakázáno**

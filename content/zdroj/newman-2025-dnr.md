@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Newman et al. (2025) — Digital News Report 2025 (RISJ)
 
 **Plná citace:** Newman, N. s Ross Arguedas, A., Robertson, C. T., Nielsen, R. K. & Fletcher, R.
 (2025). „Digital News Report 2025." Reuters Institute / Oxford. Survey **YouGov, 48 trhů**;

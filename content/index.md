@@ -1,117 +1,111 @@
 ---
-title: Index
-type: index
+title: Jak generativní AI mění média, žurnalistiku a mediální byznys
+type: report
+tags: [report, syntéza]
 updated: 2026-06-21
 publish: true
 ---
-# Index
 
-Katalog wiki. Při dotazu čti nejdřív tohle, pak drilluj do stránek. Zdroje jsou řazené
-podle taxonomie typu a síly důkazu (viz `CLAUDE.md`) — silnější opora nahoře.
+Generativní umělá inteligence není pro žurnalistiku a mediální byznys jen další technologická
+inovace. Velké jazykové modely, chatboti a vyhledávače, které samy generují odpovědi na otázky
+uživatelů, mění distribuci obsahu, oslabují některé dosavadní zdroje návštěvnosti a zvyšují tlak
+na ekonomickou i profesní proměnu redakcí.
 
-## Syntéza
-- [[overview|Přehled / teze]] — 5 stěžejních poznatků a kauzální disciplína
-- [[otevrene-otazky|Otevřené otázky a datové mezery]] — kde je důkaz nejslabší (výzkumná agenda)
-- [[co-je-noveho|Co je nového]] — veřejný changelog: co přibylo a které závěry se zpřesnily
-- [[o-projektu|O projektu]] — jak báze vzniká (deklarace AI), autorství, licence, hlášení chyb
+Z dostupných dat neplyne, že by AI sama vysvětlovala všechny současné potíže médií. Vstupuje do
+prostředí, kde už dříve slábla distribuce přes vyhledávače, sociální sítě i přímý vztah části
+publika ke značkám médií. Právě proto je podstatné rozlišovat mezi tím, co AI **urychluje**, co
+sama **způsobuje** a co pouze **zvýrazňuje** ve vývoji, který už běžel.
 
-## Koncepty
-- [[ai-overviews-zero-click|AI Overviews a zero-click]] — odpovídací rozhraní vs. distribuce
-- [[generativni-optimalizace|Generativní optimalizace (AEO / GEO)]] — experimentální odpověď na AI vyhledávání
-- [[duvera-konverzacni-rozhrani|Důvěra a konverzační rozhraní]] — chat-chamber, parasociální důvěra, offloading
-- [[kognitivni-offloading|Kognitivní offloading]] — vypůjčená kompetence, oslabení ověřování
-- [[halucinace-falesne-atribuce|Halucinace a falešné atribuce]] — reputační a faktické škody
-- [[licencovani-trzni-asymetrie|Licencování a tržní asymetrie]] — data, smlouvy, menší hráči
-- [[crawler-separation-opt-out|Oddělení crawlerů a opt-out]] — robots.txt, TDM, kontrola nad využitím obsahu
-- [[regulace-eu-ai-act-dsa|Regulace EU: AI Act a DSA]] — transparentnost, soutěžní rovina (UK CMA)
-- [[synteticky-obsah|Levný syntetický obsah]] — zaplavování informačního prostoru, hodnota původní práce
-- [[exo-zurnalistika|Exo-žurnalistika]] — proměna redakční práce, asistence ≠ autorství
-- [[homogenizace-obsahu|Homogenizace obsahu]] — ztráta vlastního hlasu při sdíleném nástroji
-- [[human-in-the-loop|Human-in-the-loop]] — lidský dohled jako obranná linie
-- [[transparentnost-deklarace-ai|Transparentnost a deklarace AI]] — přiznání AI důvěře neškodí
-- [[cesky-trh|Český trh]] — dvojí brána Google + Seznam, slabé behaviorální měření
-- [[doporuceni|Doporučení (podle síly opory)]] — co dělat: doložené vs. strategické sázky
+Kvalitní žurnalistika může v takovém prostředí obstát, ale nikoli automaticky. Vyšší odolnost
+budou mít média, která dokážou rozlišit mezi tím, co může AI zrychlit, a tím, co musí zůstat pod
+lidskou odpovědností: ověřování, úsudek, interpretace, terénní práce a budování důvěry.
 
-## Entity
+Tato úvodní stránka je manažerským shrnutím. Plný argument je rozepsaný v kapitolách níže a každá
+z nich vede hustými odkazy do [[katalog|gardenu]] — k pojmům, aktérům a konkrétním zdrojům.
 
-### Výzkum a instituce
-- [[reuters-institute|Reuters Institute]] · [[pew-research-center|Pew Research Center]] · [[bbc-ebu|BBC / EBU]]
+## Pět stěžejních poznatků
 
-### Platformy a technologické firmy
-- [[google|Google]] · [[openai|OpenAI]] · [[cloudflare|Cloudflare]] ⚠️ · [[common-crawl|Common Crawl]] ⚠️
+**1. AI vyhledávání oslabuje distribuční model médií.**
+Vyhledávače se postupně mění z rozcestníků na odpovídací systémy. Studie [[pew-research-center|Pew
+Research Center]] na 68 879 vyhledáváních ukazuje, že při zobrazení AI shrnutí klesá pravděpodobnost
+prokliku na běžný odkaz z 15 na 8 procent a odkazy vložené přímo do těla AI odpovědi využije
+přibližně jedno procento uživatelů ([[chapekis-lieb-2025]]). Přesnou kauzální část poklesu však
+zatím nelze připsat výhradně AI. → [[konec-ery-odkazu|Konec éry odkazů]]
 
-### Licencování a kolektivní správa
-- [[rsl-collective|RSL Collective]] ⚠️ · [[slpv|SLPV]] · [[aov|AOV]]
+**2. Konverzační AI mění vztah uživatelů ke zprávám i k ověřování informací.**
+Chatboti nepůsobí jako klasické vyhledávače, ale jako plynulí partneři v dialogu. Experimentální
+studie naznačují, že tato forma interakce může oslabovat motivaci k ověřování a zvyšovat ochotu
+přijmout i problematickou odpověď, pokud je podána přesvědčivě. Mezi deklarovanou skepsí veřejnosti
+a konkrétním chováním v interakci s chatbotem přitom vzniká rozdíl. → [[duvera-ke-stroji|Důvěra ke
+stroji]]
 
-### České prostředí
-- [[seznam|Seznam.cz]] · [[cesky-rozhlas|Český rozhlas]] · [[ctk|ČTK]] · [[spir|SPIR]] ⚠️
+**3. Trh s licencováním novinářských dat je selektivní a asymetrický.**
+Velké jazykové modely byly trénovány i na profesionální žurnalistice. Část velkých mediálních domů
+uzavírá s technologickými firmami licenční dohody, pro menší a lokální vydavatele však zatím
+neexistuje stabilní kompenzační režim. Problém proto neleží jen v právním sporu o legitimitu dat,
+ale i ve vznikající [[licencovani-trzni-asymetrie|tržní asymetrii]]. → [[hodnota-dat|Hodnota dat]]
 
-> ⚠️ = advokační aktér / má v debatě zájem — čti obezřetně (viz `CLAUDE.md` → taxonomie).
+**4. Halucinace a falešné atribuce vytvářejí reputační riziko i pro média, která AI sama
+nepoužívají.**
+Problémem nejsou jen věcné chyby, ale i situace, kdy AI přiřadí nepravdivé tvrzení důvěryhodné
+redakci. Studie [[bbc-ebu|BBC a EBU]], do níž se zapojil i [[cesky-rozhlas|Český rozhlas]], ukazuje,
+že [[halucinace-falesne-atribuce|falešné atribuce]] a ceremoniální citace jsou pro zpravodajství
+zvlášť citlivé riziko. → [[reputacni-skody|Reputační a faktické škody]]
 
-## Zdroje
+**5. Budoucnost redakcí nespočívá v automatizaci autorství, ale v proměně workflow a rozhraní
+k publiku.**
+AI může pomáhat s rutinními činnostmi — přepisy, tříděním dokumentů, rešeršní přípravou, testováním
+protiargumentů. Nemá však přebírat odpovědnost autora, editora ani ověřovatele faktů. Tento pracovní
+model report označuje jako [[exo-zurnalistika|exo-žurnalistiku]]: AI jako asistenční vrstva, nikoli
+náhrada autorství a odpovědnosti. → [[promena-redakce|Exo-žurnalistika]]
 
-### Recenzované studie
-- [[deverna-2024|DeVerna et al. 2024]] (silná) — AI fact-checking nezlepšuje rozpoznání titulků
-- [[tejedor-vila-2021|Tejedor & Vila 2021]] — exo-journalism (původ pojmu)
-- [[wu-2024|Wu 2024]] — value-motivated use AI v redakcích
-- [[cools-diakopoulos-2024|Cools & Diakopoulos 2024]] — percepce AI v newsroomech
-- [[doshi-hauser-2024|Doshi & Hauser 2024]] — AI snižuje kolektivní rozmanitost
-- [[maeda-quan-haase-2024|Maeda & Quan-Haase 2024]] — parasociální důvěra k AI
-- [[peters-chin-yee-2025|Peters & Chin-Yee 2025]] — generalizační zkreslení při shrnování
-- [[zuccon-2023|Zuccon et al. 2023]] — ChatGPT halucinuje při atribucích
-- [[bartleman-2026|Bartleman et al. 2026]] — přehled 185 studií automatizované žurnalistiky
-- [[barcaui-2025|Barcaui 2025]] — retence znalostí (RCT, vzdělávací doména)
-- [[gerlich-2025|Gerlich 2025]] (slabá) — korelace AI a kritického myšlení
-- [[jacob-2025|Jacob et al. 2025]] (slabá) — chat-chamber effect
-- [[khatiwada-2026|Khatiwada et al. 2026]] (slabá) — deklarace AI a vnímání zpráv
-- [[sanchez-munoz-2026|Sánchez-Muñoz et al. 2026]] (slabá) — redakční chatboti El País / El Espectador
-- [[sandrini-somogyi-2023|Sandrini & Somogyi 2023]] (indikativní) — ekonomický model klamavých zpráv
+Samostatnou vrstvu tvoří [[co-dal|doporučení]] pro vydavatele, oborová sdružení a veřejné instituce.
 
-### Preprinty / working papery
-- [[khosravi-yoganarasimhan-2026|Khosravi & Yoganarasimhan 2026]] — AI Overviews a návštěvnost Wikipedie
-- [[zhao-berman-2025|Zhao & Berman 2025]] — strategická reakce vydavatelů, blokace botů
-- [[benedek-sziklai-2025|Benedek & Sziklai 2025]] — over-reliance ve vzdělávání
+## Číst po kapitolách
 
-### Výzkumné zprávy a institucionální studie
-- [[egan-2026-dnr|Egan et al. 2026 (DNR 2026)]] (silná) — chování publika napříč 27 trhy
-- [[newman-2025-dnr|Newman et al. 2025 (DNR 2025)]] (silná) — odklon mladšího publika
-- [[chapekis-lieb-2025|Chapekis & Lieb 2025 (Pew)]] (silná) — proklik 15→8 %, zero-click 16→26 %
-- [[fletcher-verckist-2025|Fletcher & Verckist 2025 (BBC/EBU)]] (silná) — integrita zpráv v AI
-- [[newman-2026|Newman 2026 (RISJ trendy)]] — redakční strategie, očekávání z licencování
-- [[fletcher-2024|Fletcher 2024]] — kolik webů blokuje AI crawlery
-- [[gillespie-lockey-2025|Gillespie & Lockey 2025 (KPMG)]] — globální důvěra vs. užívání AI
-- [[radsch-2024|Radsch 2024 (Brookings)]] — Can journalism survive AI?
+1. [[konec-ery-odkazu|Konec éry odkazů]] — jak AI odpovídače mění model návštěvnosti
+2. [[duvera-ke-stroji|Důvěra ke stroji]] — jak chatboti mění vztah čtenářů ke zprávám
+3. [[hodnota-dat|Hodnota dat]] — jak AI průmysl využívá novinářský obsah
+4. [[reputacni-skody|Reputační a faktické škody]] — halucinace, falešné atribuce a meze obrany
+5. [[promena-redakce|Exo-žurnalistika]] — jak se proměňuje redakční práce
+6. [[co-dal|Co dál]] — doporučení podle síly opory
+7. [[zdroje|Použitá literatura a zdroje]]
 
-### Oborová analýza / data
-- [[sparktoro-datos-2025|SparkToro & Datos 2025]] — zero-click rostl už před AI
-- [[chartbeat-2026|Chartbeat 2026]] — makrodata o poklesu organické návštěvnosti
-- [[semrush-2026|Semrush 2026]] — ChatGPT clickstream, referral z AI < 1 %
-- [[marketing-miner-2026|Marketing Miner 2026]] ⚠️ — AI viditelnost značek v ČR
-- [[spir-2025|SPIR 2025]] ⚠️ — propady servisního/zájmového obsahu (data NetMonitoru)
+## Česká specifika
 
-### Právní / regulatorní
-- [[nyt-v-openai|NYT v. OpenAI & Microsoft]] — modelový spor o trénink (probíhající)
-- [[norton-rose-2026|Norton Rose Fulbright 2026]] — AI copyright spory
-- [[copyright-alliance-2026|Copyright Alliance 2026]] ⚠️ — přehled sporů 2025
-- [[prchal-2024|Prchal 2024]] — TDM opt-out v ČR
-- [[slpv-2026|SLPV 2026]] — kolektivní správa práv vydavatelů
+V českém prostředí zatím chybí robustní behaviorální data o tom, jak uživatelé s AI odpověďmi
+pracují a jak je ověřují. Dostupná pozorování proto slouží spíše jako lokální ilustrace globálních
+trendů. Přesto ukazují několik rysů, v nichž se domácí trh liší — podrobně na stránce
+[[cesky-trh|Český trh]]:
 
-### Interní podklady
-- [[nfnz-debata|Debata NFNZ (Opero)]] — interní expertní setkání (Ungr, Cibulka, Kasík)
+- **Dvojí tlak Googlu a Seznamu.** Na rozdíl od většiny Evropy český trh neovládá výhradně
+  [[google|Google]]. Významným hráčem zůstává i [[seznam|Seznam.cz]] s vlastními sumarizačními
+  prvky. Vydavatelé tak nečelí jedné dominantní bráně, ale dvěma.
+- **Viditelné ztráty v některých segmentech.** Data [[spir|SPIR]] ukazují výrazné meziroční
+  propady návštěvnosti u společenských, auto-moto a sportovních webů; podle [[egan-2026-dnr|Digital
+  News Report 2026]] se nejsilnější propady (blížící se 65 procentům) týkají lifestyle, hobby
+  a poradenských webů, zatímco u samotného zpravodajství zásadní dopad doložen není. SPIR je
+  ovšem oborový advokační aktér a jeho čísla nelze číst jako neutrální měření.
+- **Potřeba kolektivního postupu.** Český trh už má institucionální rámec pro společné vyjednávání,
+  například [[slpv|Správce licenčních práv vydavatelů]]. U menšího jazykového trhu bude podstatné,
+  zda vydavatelé postupují koordinovaně.
+- **Rozdílná míra redakční připravenosti.** Některé redakce, například [[seznam|Seznam Zprávy]]
+  nebo [[cesky-rozhlas|Český rozhlas]], už přijaly interní pravidla pro AI. Jinde veřejná pravidla
+  chybějí.
 
-### Advokační aktéři
-- [[stanovisko-monitoring-2024|Stanovisko vyd. asociací 2024]] ⚠️ — ČUV+SPIR+AOV+SLPV k monitoringu
-- [[palmieri-hufnagel-2026|Cloudflare 2026]] ⚠️ — oddělení crawlerů
-- [[rsl-collective-2025|RSL Collective 2025]] ⚠️ — otevřený licenční standard
-- [[commoncrawl-2025|Common Crawl 2025]] ⚠️ — reakce na kritiku
-- [[aov-2025|AOV 2025]] ⚠️ — diferencovaná ochrana obsahu
+## Pro koho je tato práce
 
-### Mediální / investigativní
-- [[schaul-2023|Schaul et al. 2023 (WaPo)]] — co je v datasetu C4
-- [[reisner-2025|Reisner 2025 (Atlantic)]] — Common Crawl a trénovací data
-- [[deck-2025|Deck 2025 (Nieman)]] — opt-out z tréninku vs. AI Overviews
-- [[guaglione-2025|Guaglione 2025 (Digiday)]] — momenty AI pro vydavatele 2025
-- [[foo-2026|Foo / Reuters 2026]] — německý soud: Google odpovídá za chyby v AI Overviews
-- [[cesky-rozhlas-2025|Český rozhlas 2025]] — test EBU, zkreslení ve 45 %
-- [[futurism-2023|Futurism 2023]] — skryté AI články CNET / Sports Illustrated
-- [[noreika-2026|Noreika 2026]] ⚠️ — slabý zdroj, jen ilustrace
+- **Mediální manažeři a vedoucí obsahu** — pro rozhodování o distribuční strategii, redakčních
+  pravidlech a investicích do původní tvorby.
+- **Novináři a editoři** — pro vymezení bezpečných a rizikových způsobů využití AI.
+- **Oborová sdružení a kolektivní správci práv** — jako podklad pro jednání o licencování a ochraně
+  obsahu.
+- **Tvůrci veřejných politik a regulace** — jako přehled rizik pro informační prostředí a férovou
+  soutěž.
+- **Studenti a odborná veřejnost** — jako syntéza trendů, dat a [[otevrene-otazky|otevřených otázek]].
+
+---
+
+Co báze zatím neumí doložit, drží vědomě jako [[otevrene-otazky|otevřené otázky]]. Co se v ní
+podstatného mění, shrnuje [[co-je-noveho|Co je nového]]. Jak báze vzniká, kdo za ni ručí a jak
+nahlásit chybu → [[o-projektu|O projektu]]. Úplný rozcestník všech stránek → [[katalog|Katalog]].

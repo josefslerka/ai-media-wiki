@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Reisner (2025) — Common Crawl a špinavá práce AI (Atlantic)
 
 **Plná citace:** Reisner, A. (2025). „Common Crawl Is Doing the AI Industry's Dirty Work."
 *The Atlantic*, 4. 11. 2025.

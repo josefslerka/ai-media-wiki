@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Jacob, Kerrigan & Bastos (2025)
 
 **Plná citace:** Jacob, C., Kerrigan, P. & Bastos, M. T. (2025). „The chat-chamber effect:
 Trusting the AI hallucination." Big Data & Society, 12(1). DOI: 10.1177/20539517241306345.

@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Palmieri & Hufnagel (2026) — Cloudflare, oddělení crawlerů
 
 **Plná citace:** Palmieri, M. a Hufnagel, S. (2026). „Google's AI advantage: why crawler
 separation is the only path to a fair Internet." *Cloudflare Blog*, 30. 1. 2026.

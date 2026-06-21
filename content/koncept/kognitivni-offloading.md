@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [gerlich-2025, barcaui-2025, benedek-sziklai-2025, deverna-2024]
 publish: true
 ---
-# Kognitivní offloading a vypůjčená kompetence
 
 Přenášení části mentální námahy — ověřování, zapamatování, úsudku — na AI. S tím souvisí
 **vypůjčená kompetence**: pocit, že uživatel úkol zvládl, aniž by si osvojil jeho strukturu

@@ -5,7 +5,6 @@ tags: [česko, platforma, vydavatel]
 updated: 2026-06-21
 publish: true
 ---
-# Seznam.cz
 
 Druhá silná distribuční brána českého trhu vedle Googlu; zavádí vlastní sumarizační
 a konverzační prvky. Seznam Zprávy patří mezi redakce s interními pravidly pro AI.

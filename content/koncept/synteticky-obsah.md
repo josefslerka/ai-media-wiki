@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [bartleman-2026, sandrini-somogyi-2023]
 publish: true
 ---
-# Levný syntetický obsah
 
 Generativní AI nezlevňuje jen legitimní tvorbu, ale i **nízkohodnotný a klamavý obsah**.
 Roste objem pseudozpravodajství a dezinformací, a tím paradoxně roste hodnota původního,

@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Egan et al. (2026) — Digital News Report 2026
 
 **Plná citace:** Egan, J., Robertson, C. T., Ross Arguedas, A., Newman, N., Nielsen, R. K.,
 Mukherjee, M. & Fletcher, R. (2026). „Digital News Report 2026." Reuters Institute / Oxford.

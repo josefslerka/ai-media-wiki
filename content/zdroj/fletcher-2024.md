@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Fletcher (2024) — kolik zpravodajských webů blokuje AI crawlery
 
 **Plná citace:** Fletcher, R. (2024). „How many news websites block AI crawlers?"
 *Reuters Institute for the Study of Journalism*.

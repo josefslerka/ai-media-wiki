@@ -7,7 +7,6 @@ rok: 2023
 updated: 2026-06-21
 publish: true
 ---
-# Zuccon, Koopman & Shaik (2023) — ChatGPT halucinuje při atribucích
 
 **Plná citace:** Zuccon, G., Koopman, B. & Shaik, R. (2023). „ChatGPT Hallucinates when
 Attributing Answers." In *SIGIR-AP '23*, 46–51. DOI: 10.1145/3624918.3625329 (University of

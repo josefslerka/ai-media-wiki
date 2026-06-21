@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Newman (2026) — trendy a predikce 2026 (RISJ)
 
 **Plná citace:** Newman, N. (2026). „Journalism, media, and technology trends and predictions
 2026." Reuters Institute for the Study of Journalism.

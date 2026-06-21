@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Copyright Alliance (2026) — přehled AI copyright sporů 2025
 
 **Plná citace:** Copyright Alliance (2026). „AI Copyright Lawsuit Developments in 2025:
 A Year in Review." 8. 1. 2026.

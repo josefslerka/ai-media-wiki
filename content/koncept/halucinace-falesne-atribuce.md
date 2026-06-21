@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [fletcher-verckist-2025, zhao-berman-2025, peters-chin-yee-2025, zuccon-2023, noreika-2026, cesky-rozhlas-2025, aov-2025, foo-2026]
 publish: true
 ---
-# Halucinace a falešné atribuce
 
 Problém nejsou jen věcné chyby, ale **strukturální selhání ve zdrojování** — a riziko
 dopadá i na média, která AI sama nepoužívají.
@@ -22,7 +21,7 @@ pro práci s nimi:
 - **ceremoniální citace** — odpověď vypadá zdrojovaně, ale článek tvrzení nepodporuje.
 
 Poslední dvě jsou pro značky nejcitlivější: **42 % lidí** by méně důvěřovalo původnímu zdroji,
-kdyby AI souhrn obsahoval chyby ([[fletcher-verckist-2025|BBC/EBU]]).
+kdyby AI souhrn obsahoval chyby ([[fletcher-verckist-2025|BBC a EBU]]).
 
 ## Co o tom víme
 - AI připisovala veřejnoprávním médiím hodnotící/aktivistické postoje, které v textu nebyly,
@@ -53,7 +52,7 @@ zpravodajství ~45 % případů). Doporučená je diferencovaná, ne plošná ob
 [[aov-2025]]).
 
 ## Datová mezera
-⚠️ [[fletcher-verckist-2025|BBC/EBU]] je **statický snímek**. Otevřená otázka: zlepšují se
+⚠️ [[fletcher-verckist-2025|BBC a EBU]] je **statický snímek**. Otevřená otázka: zlepšují se
 atribuce a citace napříč generacemi modelů, nebo zůstávají stejně chybové? Viz [[otevrene-otazky]].
 
 ## Zdroje

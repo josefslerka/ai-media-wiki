@@ -5,7 +5,6 @@ tags: [meta, o-projektu, transparentnost]
 updated: 2026-06-21
 publish: true
 ---
-# O projektu
 
 Tahle znalostní báze mapuje, jak generativní AI mění média, žurnalistiku a mediální byznys.
 Roste tím, jak přibývají zdroje. Protože sama argumentuje pro transparentnost, lidský dohled

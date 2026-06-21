@@ -5,9 +5,8 @@ tags: [česko, veřejnoprávní]
 updated: 2026-06-21
 publish: true
 ---
-# Český rozhlas
 
-Veřejnoprávní rozhlas; zapojil se do testování [[bbc-ebu|BBC/EBU]] a patří mezi redakce
+Veřejnoprávní rozhlas; zapojil se do testování [[bbc-ebu|BBC a EBU]] a patří mezi redakce
 s interními pravidly pro AI.
 
 ## Role v bázi

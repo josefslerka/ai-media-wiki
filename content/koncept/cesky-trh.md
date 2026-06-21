@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [egan-2026-dnr, spir-2025, marketing-miner-2026]
 publish: true
 ---
-# Český trh
 
 Domácí prostředí ilustruje globální trendy, ale s vlastními rysy. Behaviorální data
 srovnatelná s USA zatím chybí — český materiál je **lokální ilustrace**, ne samostatně

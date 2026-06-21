@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# DeVerna et al. (2024) — AI fact-checking a rozpoznání titulků
 
 **Plná citace:** DeVerna, M. R., Yan, H. Y., Yang, K.-C. & Menczer, F. (2024). „Fact-checking
 information from large language models can decrease headline discernment." *PNAS*, 121(50),

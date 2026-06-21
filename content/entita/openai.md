@@ -5,7 +5,6 @@ tags: [platforma, AI]
 updated: 2026-06-21
 publish: true
 ---
-# OpenAI
 
 Vývojář generativních modelů (ChatGPT, GPT). V mediální debatě hraje dvojroli: uzavírá
 **licenční dohody** s velkými vydavateli a zároveň čelí **sporu o legitimitu trénovacích dat**.

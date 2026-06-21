@@ -5,7 +5,6 @@ tags: [changelog, meta]
 updated: 2026-06-21
 publish: true
 ---
-# Co je nového
 
 Tahle báze je živý dokument, ne hotová kniha. Roste tím, jak přibývají zdroje, a sílí tím,
 jak se tvrzení ověřují proti původním studiím a dokumentům. Stránka shrnuje, co se v ní
@@ -15,7 +14,7 @@ stránkách tu nevypisujeme; sem patří jen to, co mění obraz.
 ## Červen 2026 — spuštění báze
 
 Báze vznikla rozložením reportu *Jak generativní AI mění média, žurnalistiku a mediální
-byznys* na prolinkovanou znalostní vrstvu: souvislý [[report|report-hub]], patnáct
+byznys* na prolinkovanou znalostní vrstvu: souvislý [[index|report]], patnáct
 analytických pojmů, čtrnáct aktérů a institucí a zhruba padesát zdrojů. Páteří je
 [[overview|pětice stěžejních poznatků]], závěry drží [[doporuceni|samostatná stránka
 doporučení]] rozdělená podle síly opory a co báze zatím doložit neumí, přiznává stránka

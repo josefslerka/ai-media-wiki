@@ -5,7 +5,6 @@ tags: [česko, oborové sdružení]
 updated: 2026-06-21
 publish: true
 ---
-# AOV (Asociace online vydavatelů)
 
 České oborové sdružení online vydavatelů. V agendě ochrany obsahu před AI doporučuje
 **diferencovaný přístup k robotům** místo plošné blokace.

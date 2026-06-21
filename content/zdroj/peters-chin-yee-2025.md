@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Peters & Chin-Yee (2025) — generalizační zkreslení při shrnování vědy
 
 **Plná citace:** Peters, U. & Chin-Yee, B. (2025). „Generalization bias in large language
 model summarization of scientific research." *Royal Society Open Science*, 12(4), 241776.

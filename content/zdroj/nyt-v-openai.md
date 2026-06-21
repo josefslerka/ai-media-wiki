@@ -7,7 +7,6 @@ rok: 2023
 updated: 2026-06-21
 publish: true
 ---
-# The New York Times v. OpenAI & Microsoft
 
 **Plná citace:** The New York Times Company v. Microsoft Corp. & OpenAI (žaloba podaná
 12/2023, U.S. District Court, S.D.N.Y.). Průběh sledován v právních přehledech

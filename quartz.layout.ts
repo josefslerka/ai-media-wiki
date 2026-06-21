@@ -1,6 +1,21 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Explorer řazení: složku „report" napevno nahoru, kapitoly číselně (1., 2., …)
+const explorerSort = (a, b) => {
+  const aRep = a.isFolder && a.displayName.toLowerCase() === "report"
+  const bRep = b.isFolder && b.displayName.toLowerCase() === "report"
+  if (aRep && !bRep) return -1
+  if (bRep && !aRep) return 1
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+  return a.isFolder ? -1 : 1
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -38,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSort }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +77,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSort }),
   ],
   right: [],
 }

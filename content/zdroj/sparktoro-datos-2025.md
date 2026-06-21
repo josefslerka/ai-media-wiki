@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# SparkToro & Datos (2025) — State of Search Q1 2025
 
 **Plná citace:** SparkToro / Datos (2025). „State of Search Q1 2025: Behaviors, Trends, and
 Clicks Across the US & Europe."

@@ -5,7 +5,6 @@ tags: [česko, kolektivní správa]
 updated: 2026-06-21
 publish: true
 ---
-# SLPV (Správce licenčních práv vydavatelů)
 
 Český **kolektivní správce práv vydavatelů tiskových publikací**. Vytváří rámec, aby český
 trh nevyjednával s globálními AI firmami roztříštěně, ale koordinovaně.

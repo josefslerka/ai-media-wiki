@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [newman-2026]
 publish: true
 ---
-# Generativní optimalizace (AEO / GEO)
 
 Snaha přizpůsobit obsah tomu, jak ho čtou **odpovídací systémy**, ne jen klasické
 vyhledávače. Vedle tradičního SEO sem patří **AEO** (Answer Engine Optimization), **GEO**

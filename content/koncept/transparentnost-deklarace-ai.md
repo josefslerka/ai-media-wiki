@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [khatiwada-2026, futurism-2023]
 publish: true
 ---
-# Transparentnost a deklarace AI
 
 **Generování ≠ publikování.** Jak redakce přizná zapojení AI ke čtenáři, ovlivňuje důvěru.
 Klíčové zjištění: transparentnost sama o sobě důvěru nezaručí, ale její **absence ji může

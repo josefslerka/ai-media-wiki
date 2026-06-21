@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Maeda & Quan-Haase (2024) — parasociální důvěra k AI
 
 **Plná citace:** Maeda, T. & Quan-Haase, A. (2024). „When Human-AI Interactions Become
 Parasocial: Agency and Anthropomorphism in Affective Design." *ACM FAccT 2024*, 1068–1077.

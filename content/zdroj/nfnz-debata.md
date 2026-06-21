@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Debata NFNZ — pražské Opero
 
 Interní expertní setkání o dopadech generativní AI na žurnalistiku a mediální byznys.
 Zdroj typu **interní podklad** — pracovní poznámky a interní audio, ne publikované měření.

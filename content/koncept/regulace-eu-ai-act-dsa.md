@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [norton-rose-2026, copyright-alliance-2026, prchal-2024, palmieri-hufnagel-2026, foo-2026]
 publish: true
 ---
-# Regulace EU: AI Act a DSA
 
 Regulatorní rámec, do kterého proměna médií vstupuje. Report ho nepředkládá jako hotové
 řešení, ale jako **agendu, která se teprve formuje a jejíž vymahatelnost se testuje**.

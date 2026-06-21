@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Common Crawl (2025) — reakce na kritiku
 
 **Plná citace:** CommonCrawl (2025). „Setting the Record Straight: Common Crawl's Commitment
 to Transparency, Fair Use, and the Public Good." *Common Crawl Blog*, 4. 11. 2025.

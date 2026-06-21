@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [zhao-berman-2025, futurism-2023, khatiwada-2026, fletcher-verckist-2025, wu-2024, cools-diakopoulos-2024, doshi-hauser-2024, aov-2025, newman-2026, rsl-collective-2025, slpv-2026, deck-2025, palmieri-hufnagel-2026, prchal-2024, gerlich-2025, barcaui-2025]
 publish: true
 ---
-# Doporučení (podle síly opory)
 
 Závěrečná doporučení reportu („Co dál"). Klíčový rozdíl: **doporučení nemají stejnou váhu.**
 Část reaguje na **už doložené problémy** (chybovost AI, potřeba lidského gatekeepingu, náklady

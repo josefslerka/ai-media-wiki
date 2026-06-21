@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [jacob-2025, egan-2026-dnr, deverna-2024, maeda-quan-haase-2024, gillespie-lockey-2025, gerlich-2025, barcaui-2025]
 publish: true
 ---
-# Důvěra a konverzační rozhraní
 
 Chatbot nepůsobí jako seznam odkazů, ale jako plynulý partner v dialogu. To snižuje
 náklady na přijetí hotové odpovědi a může oslabovat motivaci k ověřování.

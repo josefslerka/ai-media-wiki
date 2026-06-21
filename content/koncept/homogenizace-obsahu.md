@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [doshi-hauser-2024, cools-diakopoulos-2024]
 publish: true
 ---
-# Homogenizace obsahu
 
 Riziko stylistického splývání a ztráty vlastního hlasu, které vzniká, když širší skupina
 autorů používá podobné AI nástroje. Nejde o chybu jednotlivce, ale o **systémový efekt**

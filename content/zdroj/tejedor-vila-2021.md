@@ -7,7 +7,6 @@ rok: 2021
 updated: 2026-06-21
 publish: true
 ---
-# Tejedor & Vila (2021) — exo-journalism
 
 **Plná citace:** Tejedor, S. & Vila, P. (2021). „Exo Journalism: A Conceptual Approach to
 a Hybrid Formula between Journalism and Artificial Intelligence." *Journalism and Media*,

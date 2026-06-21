@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [egan-2026-dnr, schaul-2023, radsch-2024, reisner-2025, commoncrawl-2025, guaglione-2025, deck-2025, prchal-2024, copyright-alliance-2026, norton-rose-2026, rsl-collective-2025, slpv-2026, nyt-v-openai]
 publish: true
 ---
-# Licencování a tržní asymetrie
 
 Dvě roviny, které se v debatě pletou: **právní spor** o legitimitu dat (smí se na
 mediálním obsahu trénovat?) a **ekonomická asymetrie** (kdo z nového trhu reálně získává).

@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [wu-2024, fletcher-verckist-2025, cools-diakopoulos-2024, cesky-rozhlas-2025, nfnz-debata]
 publish: true
 ---
-# Human-in-the-loop
 
 Lidský dohled není jen technická pojistka proti chybám, ale **garance institucionální
 důvěry**. Každý obsah mířící k publiku má mít dohledatelného lidského autora/editora,
@@ -38,7 +37,7 @@ který ručí za ověření, kontext a formulaci.
   ([[cools-diakopoulos-2024]]).
 
 ## Vztah k publikování
-Tahle wiki princip aplikuje i na sebe: **generování ≠ publikování** (viz `CLAUDE.md`).
+Tahle wiki princip aplikuje i na sebe: **generování ≠ publikování**.
 Drafty jsou AI, finální odpovědnost lidská. Dohled je zároveň předpokladem důvěryhodné
 [[transparentnost-deklarace-ai|deklarace AI]] — deklarovat „kdo ověřil" má smysl jen tam,
 kde někdo opravdu ověřuje.

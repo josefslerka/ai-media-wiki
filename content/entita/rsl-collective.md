@@ -5,7 +5,6 @@ tags: [licence, standard, advokační aktér]
 updated: 2026-06-21
 publish: true
 ---
-# RSL Collective
 
 Iniciativa za **otevřený, strojově čitelný licenční standard (RSL)**, který má vydavatelům
 umožnit nabízet data AI firmám za předem určených podmínek — kolektivní protiváha k

@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Prchal (2024) — generativní AI a autorská práva (TDM opt-out)
 
 **Plná citace:** Prchal, P. (2024). „Generativní umělá inteligence a porušování autorských
 práv — část II." *Právní prostor*.

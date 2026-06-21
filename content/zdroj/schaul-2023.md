@@ -7,7 +7,6 @@ rok: 2023
 updated: 2026-06-21
 publish: true
 ---
-# Schaul, Chen & Tiku (2023) — co je v datasetu C4 (WaPo)
 
 **Plná citace:** Schaul, K., Chen, S. Y. a Tiku, N. (2023). „See the websites that make AI
 bots like ChatGPT sound so smart." *The Washington Post*, 19. 4. 2023.

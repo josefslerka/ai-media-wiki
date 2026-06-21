@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Sánchez-Muñoz et al. (2026) — chatboti El País a El Espectador
 
 **Plná citace:** Sánchez-Muñoz, G., García Casado, I. & Varona Aramburu, D. (2026).
 „Artificial Intelligence Chatbots as Assistants for Media Users: The Cases of El País and

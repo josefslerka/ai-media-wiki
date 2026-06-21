@@ -5,7 +5,6 @@ tags: [výzkum, veřejnoprávní]
 updated: 2026-06-21
 publish: true
 ---
-# BBC / European Broadcasting Union
 
 Mezinárodní studie integrity zpráv v AI asistentech; nejsilnější empirická opora pro
 kapitolu o reputačních škodách. Zapojil se i [[cesky-rozhlas|Český rozhlas]].

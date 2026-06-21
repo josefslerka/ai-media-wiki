@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Guaglione (2025) — největší momenty AI pro vydavatele 2025 (Digiday)
 
 **Plná citace:** Guaglione, S. (2025). „Here are the biggest moments in AI for publishers
 in 2025." *Digiday*, 26. 12. 2025.

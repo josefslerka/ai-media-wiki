@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Chartbeat (2026) — nová mapa návštěvnosti
 
 **Plná citace:** Chartbeat (2026). „Navigating the New Traffic Landscape: What's Really
 Happening with Search, Dark Social, and AI."

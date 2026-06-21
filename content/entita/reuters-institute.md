@@ -5,7 +5,6 @@ tags: [výzkum, instituce]
 updated: 2026-06-21
 publish: true
 ---
-# Reuters Institute (RISJ)
 
 Oxfordský výzkumný institut; v této bázi klíčový zdroj pro distribuci, postoje publika
 a redakční strategie. Vydává Digital News Report a roční trendy/predikce.

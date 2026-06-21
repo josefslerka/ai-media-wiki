@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Radsch (2024) — Can journalism survive AI? (Brookings)
 
 **Plná citace:** Radsch, C. (2024). „Can journalism survive AI?" *Brookings / Center for
 Technology Innovation*, 12. 2. 2024.

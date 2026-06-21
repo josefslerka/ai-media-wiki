@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Cools & Diakopoulos (2024) — mapování percepcí AI v newsroomech
 
 **Plná citace:** Cools, H. & Diakopoulos, N. (2024). „Uses of Generative AI in the Newsroom:
 Mapping Journalists' Perceptions of Perils and Possibilities." *Journalism Practice*, 20(3),

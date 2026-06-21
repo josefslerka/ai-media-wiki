@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Bartleman, Schapals & Dubois (2026) — přehled 185 studií automatizované žurnalistiky
 
 **Plná citace:** Bartleman, M., Schapals, A. K. a Dubois, E. (2026). „Generative AI and the
 New Landscape of Automated Journalism: A Systematized Review of 185 Studies (2012–2024)."

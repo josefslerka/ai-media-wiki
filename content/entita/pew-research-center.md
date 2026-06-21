@@ -5,7 +5,6 @@ tags: [výzkum, instituce, USA]
 updated: 2026-06-21
 publish: true
 ---
-# Pew Research Center
 
 Nestranný americký výzkumný institut. V této bázi klíčový zdroj behaviorálních
 (nikoli postojových) dat o tom, co dělají uživatelé při AI shrnutích ve vyhledávání.

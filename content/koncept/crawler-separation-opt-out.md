@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [prchal-2024, deck-2025, palmieri-hufnagel-2026, zhao-berman-2025, copyright-alliance-2026, norton-rose-2026]
 publish: true
 ---
-# Oddělení crawlerů a opt-out
 
 Technická a regulatorní obrana přístupu k obsahu: `robots.txt`, **TDM opt-out** a požadavek
 **oddělit crawlery podle účelu** — jiný režim pro klasickou indexaci do vyhledávání, jiný

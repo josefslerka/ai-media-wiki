@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Gillespie & Lockey (2025) — globální studie důvěry v AI (KPMG)
 
 **Plná citace:** Gillespie, N., Lockey, S., Ward, T., Macdade, A. & Hassed, G. (2025). „Trust,
 attitudes and use of artificial intelligence: A global study 2025." University of Melbourne &

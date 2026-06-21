@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Chapekis & Lieb (2025) — Pew Research Center
 
 **Plná citace:** Chapekis, A. & Lieb, A. (2025). „Google users are less likely to click on
 links when an AI summary appears in the results." Pew Research Center, 22. 7. 2025.

@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Noreika (2026) — chybné AI odpovědi Google (Technology.org)
 
 **Plná citace:** Noreika, A. (2026). „Google's AI Answers Are Wrong Millions of Times Per
 Hour — And Most People Have No Idea." *Technology Org*, 8. 4. 2026.

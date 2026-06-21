@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Semrush (2026) — ChatGPT clickstream
 
 **Plná citace:** Semrush (2026). „ChatGPT traffic analysis: Insights from 17 months of
 clickstream data." Semrush Blog.

@@ -6,7 +6,6 @@ updated: 2026-06-21
 zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026]
 publish: true
 ---
-# AI Overviews a zero-click
 
 Vyhledávače se mění z rozcestníků na **odpovídací systémy**: část informační potřeby
 vyřídí přímo v rozhraní a uživatel už neklikne na původní zdroj. To oslabuje distribuční
@@ -35,7 +34,7 @@ model žurnalistiky postavený na odkazu.
 - Příchody z chatbotů zatím ztráty nenahrazují (<1 % zobrazení).
 - Nejzranitelnější je obsah snadno převoditelný na stručnou faktickou odpověď
   ([[khosravi-yoganarasimhan-2026]]); složitější a kontextová témata drží odolnost lépe.
-- Defenzivní reakce vydavatelů: [[generativni-optimalizace|AEO/GEO]] (experimentální, ne
+- Defenzivní reakce vydavatelů: [[generativni-optimalizace|AEO a GEO]] (experimentální, ne
   ověřené řešení).
 - **Odpovědnost za výstup:** mnichovský soud označil AI Overviews za „vlastní obsah Googlu"
   (Google odpovídá za chyby, odvolává se) → [[foo-2026]], [[halucinace-falesne-atribuce]].

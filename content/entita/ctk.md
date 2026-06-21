@@ -5,7 +5,6 @@ tags: [česko, agentura, automatizace]
 updated: 2026-06-21
 publish: true
 ---
-# ČTK (Česká tisková kancelář)
 
 Česká tisková agentura. Poloautomatické generování strukturovaných textů
 (volební výsledky, počasí, popisky fotografií) využívá už řadu let — automatizace

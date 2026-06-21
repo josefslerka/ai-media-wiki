@@ -5,7 +5,6 @@ tags: [lint, výzkumná-agenda]
 updated: 2026-06-21
 publish: true
 ---
-# Otevřené otázky a datové mezery
 
 Živá výzkumná agenda báze — kde je důkaz nejslabší a co by šlo doplnit dalším Ingestem
 nebo webovým hledáním. Vzniká z Lintu (viz `log.md`). Není to tvrzení, ale seznam mezer.
@@ -17,7 +16,7 @@ nebo webovým hledáním. Vzniká z Lintu (viz `log.md`). Není to tvrzení, ale
   [[duvera-konverzacni-rozhrani]].
 - **Rozlišení zpravodajství vs. servisní obsah v ČR.** Data [[spir-2025|SPIR]] jsou
   agregovaná; u zpravodajství zásadní dopad zatím nedoložen, ale chybí čisté oddělení.
-- **Vývoj přesnosti atribucí napříč generacemi modelů.** [[fletcher-verckist-2025|BBC/EBU]]
+- **Vývoj přesnosti atribucí napříč generacemi modelů.** [[fletcher-verckist-2025|BBC a EBU]]
   je statický snímek (2 700+ odpovědí). Zlepšují se novější modely v citaci a atribuci, nebo
   zůstávají stejně chybové? → [[halucinace-falesne-atribuce]].
 - **Objem návštěvnosti z AI platforem pro česká média.** Globálně <1 %; česká čísla chybí.

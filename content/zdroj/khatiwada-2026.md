@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Khatiwada et al. (2026) — vliv deklarace AI na vnímání zpráv
 
 **Plná citace:** Khatiwada, P., Pappu, V., Bagozzi, B. E. & Mauriello, M. L. (2026).
 „When AI Rewrites the News: How Sentiment, Framing, and LLM Disclosure Shape Perceptions."

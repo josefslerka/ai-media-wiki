@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Stanovisko českých vydavatelských asociací k monitoringu obsahu (2024)
 
 **Plná citace:** ČUV, SPIR, AOV a SLPV (2024). „Stanovisko českých vydavatelských asociací
 k problematickým praktikám při užívání služeb monitoringu obsahu." Praha, 15. 3. 2024.

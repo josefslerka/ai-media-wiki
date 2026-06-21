@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Barcaui (2025) — ChatGPT a retence znalostí (RCT)
 
 **Plná citace:** Barcaui, A. (2025). „ChatGPT as a cognitive crutch: Evidence from a
 randomized controlled trial on knowledge retention." *Social Sciences & Humanities Open*,

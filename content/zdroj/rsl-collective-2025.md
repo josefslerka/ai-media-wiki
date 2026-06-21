@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# RSL Collective (2025) — otevřený licenční standard RSL
 
 **Plná citace:** RSL Collective (2025). Spuštění RSL Standard a RSL Collective, 10. 9. 2025.
 **Odkaz:** https://rslstandard.org/press/rsl-standard

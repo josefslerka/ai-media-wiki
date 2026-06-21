@@ -7,7 +7,6 @@ rok: 2025
 updated: 2026-06-21
 publish: true
 ---
-# Gerlich (2025) — AI a kognitivní offloading
 
 **Plná citace:** Gerlich, M. (2025). „AI Tools in Society: Impacts on Cognitive Offloading
 and the Future of Critical Thinking." *Societies*, 15(1), 6; korekce 15(9), 252.

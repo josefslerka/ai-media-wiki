@@ -7,7 +7,6 @@ rok: 2026
 updated: 2026-06-21
 publish: true
 ---
-# Khosravi & Yoganarasimhan (2026)
 
 **Plná citace:** Khosravi, M. & Yoganarasimhan, H. (2026). „Impact of AI Search Summaries
 on Website Traffic: Evidence from Google AI Overviews and Wikipedia." University of Washington,

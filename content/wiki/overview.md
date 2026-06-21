@@ -5,13 +5,12 @@ tags: [syntéza]
 updated: 2026-06-21
 publish: true
 ---
-# Přehled: Jak generativní AI mění média a žurnalistiku
 
 Generativní AI není jen další technologická inovace. Mění distribuci obsahu, oslabuje
 zdroje návštěvnosti a zvyšuje tlak na ekonomickou i profesní proměnu redakcí. Ale
 **nevstupuje do stabilního prostředí** — distribuce přes vyhledávače i sociální sítě
 slábla už dřív. Proto rozlišuj, co AI **způsobuje**, co **urychluje** a co jen
-**zvýrazňuje** (viz epistemická pravidla v `CLAUDE.md`).
+**zvýrazňuje**.
 
 ## Pět stěžejních poznatků
 
@@ -38,6 +37,6 @@ Co báze zatím neumí doložit, vědomě drží jako otevřené: [[otevrene-ota
 
 ## Deklarace AI
 Báze i původní report vznikly s pomocí AI jako pracovního nástroje; úsudek, výběr zdrojů
-a finální odpovědnost jsou lidské. Tahle wiki to drží jako pravidlo (viz `CLAUDE.md` →
-publikační pravidlo): generování ≠ publikování. Jak přesně báze vzniká, kdo za ni ručí
+a finální odpovědnost jsou lidské. Tahle wiki to drží jako pravidlo: generování ≠ publikování.
+Jak přesně báze vzniká, kdo za ni ručí
 a jak nahlásit chybu → [[o-projektu|O projektu]].

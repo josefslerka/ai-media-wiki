@@ -5,7 +5,6 @@ tags: [data, korpus]
 updated: 2026-06-21
 publish: true
 ---
-# Common Crawl
 
 Neziskový webový korpus, který fakticky slouží jako vstup pro trénink velkých jazykových
 modelů (mj. odvozená sada C4). Stal se ohniskem sporu o **transparentnost původu dat**.

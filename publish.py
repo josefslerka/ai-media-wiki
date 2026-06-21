@@ -15,8 +15,8 @@ import os, re, shutil, sys
 VAULT = "/Users/josefslerka/vault/ai-media-wiki"
 OUT   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content")
 # adresáře vaultu, které se publikují (zbytek se ignoruje úplně)
-INCLUDE_DIRS = ["wiki", "koncept", "entita", "zdroj"]
-INCLUDE_ROOT_FILES = ["index.md"]
+INCLUDE_DIRS = ["wiki", "koncept", "entita", "zdroj", "report"]
+INCLUDE_ROOT_FILES = ["index.md", "katalog.md"]
 # pojistka: tyhle se nepublikují, ani kdyby měly publish:true
 NEVER = {"CLAUDE.md", "STYLE.md", "log.md", "PROMPTY.md", "README.md"}
 
@@ -32,6 +32,18 @@ def strip_internal(text):
     text = re.sub(r'%%.*?%%', '', text, flags=re.S)
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text
+
+def strip_title_h1(text):
+    # Quartz vykresluje title z frontmatteru jako nadpis stránky; nadbytečný úvodní # H1
+    # v těle by se dubloval. Strip jen vede-li hned za frontmatterem. (Kapitoly reportu
+    # mají popisek jako tučný perex, ne H1 — ty se nesmažou.)
+    m = FM_RE.match(text)
+    if not m:
+        return text
+    end = m.end()
+    head, body = text[:end], text[end:]
+    body = re.sub(r'^\s*# [^\n]*\n', '\n', body, count=1)
+    return head + body
 
 def collect():
     files = []
@@ -60,7 +72,7 @@ def main():
         if not is_published(text):
             skipped += 1
             continue
-        out_text = strip_internal(text)
+        out_text = strip_title_h1(strip_internal(text))
         if "%%" in out_text:
             leaked.append(os.path.join(d, fn))
         outdir = os.path.join(OUT, d)

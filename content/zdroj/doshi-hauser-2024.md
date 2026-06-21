@@ -7,7 +7,6 @@ rok: 2024
 updated: 2026-06-21
 publish: true
 ---
-# Doshi & Hauser (2024) — AI a kolektivní rozmanitost tvorby
 
 **Plná citace:** Doshi, A. R. & Hauser, O. P. (2024). „Generative AI enhances individual
 creativity but reduces the collective diversity of novel content." *Science Advances*,
