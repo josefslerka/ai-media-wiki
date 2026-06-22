@@ -32,6 +32,24 @@ poškodit velmi rychle**.
 - Navazuje na [[human-in-the-loop]]: deklarace má smysl, jen když za výstupem stojí
   dohledatelná lidská odpovědnost.
 
+## Jak označovat (praktický checklist)
+1. **Vždy přiznat** — skryté nasazení škodí rychle ([[futurism-2023]]); samotná deklarace důvěře
+   neškodí, spíš mírně pomáhá ([[khatiwada-2026]]).
+2. **Deklaruj proces, ne jen nálepku** — „AI-assisted / ve spolupráci" funguje líp než „vytvořeno
+   AI"; řekni **co AI udělala a kdo to ověřil** ([[zier-diakopoulos-2026]]).
+3. **Signalizuj viditelný lidský dohled** — nejsilnější pozitivní prediktor vnímané důvěryhodnosti
+   ([[valenzuela-2026]]); viz [[human-in-the-loop]].
+4. **Deklaruj dopředu, ne ex post** — pozdní odhalení působí jako podvod ([[zier-diakopoulos-2026]]).
+5. **Rozlišuj podle zásahu** — rešerše/přepis/jazyk = lehká deklarace; interpretace, názor a citlivá
+   témata = pečlivě (automatizovaná tvorba obsahu důvěryhodnost mírně snižuje, [[valenzuela-2026]]).
+6. **Pozor na opačný efekt** — u senzačního či sporného obsahu může i zmínka AI odradit; extrémní
+   tón textu škodí důvěře víc než samotná nálepka ([[khatiwada-2026]]).
+7. **Bez skutečného dohledu nemá smysl** — „kdo ověřil" platí jen tam, kde se opravdu ověřuje
+   ([[human-in-the-loop]]).
+
+**Šablona:** *„Na přípravě se podílela AI: [přepis / rešerše / jazyková úprava]. Výběr, interpretaci
+a ověření faktů provedl/a [jméno, role]."* — uvedeno **dopředu**, s dohledatelnou lidskou odpovědností.
+
 ## Regulační kontext
 S nástupem **AI Actu** poroste tlak na označování syntetického obsahu
 ([[synteticky-obsah]], širší rámec [[regulace-eu-ai-act-dsa]]). Transparentnost tu není jen

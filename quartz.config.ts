@@ -84,6 +84,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.RobotsTxt(),
+      Plugin.GoogleSiteVerification(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages({ colorScheme: "lightMode", excludeRoot: false }),
