@@ -42,6 +42,9 @@ kontrola obraz na několika místech zpřesnila — níže ty nejpodstatnější
 - **Dopad na zprávy není plošný podle čerstvosti.** Breaking news si v AI vyhledávání zatím drží
   pozici (a roste přes Google Discover), zatímco evergreen obsah ztrácí — vendor data, tedy
   indikace. → [[ai-overviews-zero-click|AI Overviews a zero-click]]
+- **Lidský dohled a deklarace AI mají teď silnou oporu.** Velký předregistrovaný experiment
+  (N = 2 145) ukázal, že právě ony — ne přítomnost AI samotná — nejvíc zvyšují vnímanou
+  důvěryhodnost média. → [[human-in-the-loop|Human-in-the-loop]], [[transparentnost-deklarace-ai|Transparentnost]]
 
 ## Co nově přibylo
 

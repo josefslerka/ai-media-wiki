@@ -39,7 +39,7 @@ absence ji však může poškodit velmi rychle. Experimentální studie Khatiwad
 přiznání, že se na textu podílela AI, důvěryhodnost nesnižuje, v experimentu ji dokonce mírně zvyšovalo,
 zatímco mnohem víc škodí extrémní tón samotného obsahu ([[khatiwada-2026]]). Jde o experiment na malém
 americkém vzorku (zhruba 180 respondentů), takže výsledek je třeba brát jako indicii, nikoli jako robustní
-důkaz. Z toho plyne praktické doporučení, které ovšem sama studie head-to-head netestovala: účinnější než
+důkaz. Co bylo dosud jen indicie, podpírá teď silnější důkaz: předregistrovaný conjoint experiment v Chile na více než dvou tisících respondentů ukázal, že **deklarace i lidský dohled patří k nejsilnějším pozitivním prediktorům** vnímané důvěryhodnosti — publikum reaguje méně na přítomnost AI než na strukturu odpovědnosti kolem ní ([[valenzuela-2026]]); kvalitativní výzkum doplňuje, že čtenáři chtějí hlavně viditelný lidský dohled a formulaci „AI-assisted", ne „vytvořeno AI" ([[zier-diakopoulos-2026]]). Z toho plyne praktické doporučení, které ovšem sama studie head-to-head netestovala: účinnější než
 pouhý odznak „vytvořeno AI" je nejspíš procesní deklarace, která říká, co AI změnila a kdo výstup ověřil,
 například „AI upravila styl, fakta ověřil editor".
 

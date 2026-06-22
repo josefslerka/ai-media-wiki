@@ -63,6 +63,8 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[gerlich-2025|Gerlich 2025]] (slabá) — korelace AI a kritického myšlení
 - [[jacob-2025|Jacob et al. 2025]] (slabá) — chat-chamber effect
 - [[khatiwada-2026|Khatiwada et al. 2026]] (slabá) — deklarace AI a vnímání zpráv
+- [[valenzuela-2026|Valenzuela et al. 2026]] (silná) — conjoint Chile: dohled + deklarace = nejsilnější prediktory důvěry
+- [[zier-diakopoulos-2026|Zier & Diakopoulos 2026]] (slabá) — očekávání publika kolem deklarace AI
 - [[sanchez-munoz-2026|Sánchez-Muñoz et al. 2026]] (slabá) — redakční chatboti El País / El Espectador
 - [[sandrini-somogyi-2023|Sandrini & Somogyi 2023]] (indikativní) — ekonomický model klamavých zpráv
 

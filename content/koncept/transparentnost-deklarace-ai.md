@@ -3,7 +3,7 @@ title: Transparentnost a deklarace AI
 type: koncept
 tags: [redakce, důvěra, transparentnost, regulace]
 updated: 2026-06-21
-zdroje: [khatiwada-2026, futurism-2023]
+zdroje: [khatiwada-2026, futurism-2023, valenzuela-2026, zier-diakopoulos-2026]
 publish: true
 ---
 
@@ -21,6 +21,15 @@ poškodit velmi rychle**.
   „**procesní deklarace ('co AI změnila a kdo ověřil') > pouhý odznak 'vytvořeno AI'**" (např.
   „AI upravila styl, fakta ověřil editor") je **doporučení reportu**, ne výsledek Khatiwady —
   ta porovnávala přítomnost/nepřítomnost deklarace, ne dva její styly.
+- **Silná opora teď existuje.** Předregistrovaný conjoint experiment v Chile (N = 2 145) zjistil,
+  že **deklarace a lidský dohled jsou nejsilnější pozitivní prediktory** vnímané důvěryhodnosti
+  i výběru média; automatizovaná tvorba obsahu naopak důvěryhodnost mírně snižuje. Publikum reaguje
+  méně na *přítomnost* AI než na **strukturu odpovědnosti** kolem ní ([[valenzuela-2026]] — silná,
+  kauzální).
+- **Účinná deklarace = proces a formulace, ne jen odznak.** Publikum přijímá líp „AI-assisted /
+  ve spolupráci" než „AI-generated", chce **viditelný lidský dohled** a deklaraci preferuje
+  **dopředu**; pouhá zmínka AI ale může i kontraproduktivně odradit ([[zier-diakopoulos-2026]] —
+  slabá, kvalitativní N = 20).
 - Navazuje na [[human-in-the-loop]]: deklarace má smysl, jen když za výstupem stojí
   dohledatelná lidská odpovědnost.
 
@@ -30,8 +39,9 @@ S nástupem **AI Actu** poroste tlak na označování syntetického obsahu
 regulatorní disciplína, ale i prevence reputačního poškození.
 
 ## Výhrady a otevřené otázky
-- ⚠️ Hlavní experimentální opora ([[khatiwada-2026]]) je **malý US vzorek** → indicie, ne
-  robustní důkaz; přenos na český kontext neověřen.
+- ⚠️ Khatiwada ([[khatiwada-2026]]) je **malý US vzorek** (indicie); silnější oporou je teď
+  kauzální conjoint [[valenzuela-2026]] (N = 2 145). Zier & Diakopoulos je **kvalitativní** (N = 20)
+  — bohaté na mechanismus, slabé na zobecnění. Přenos na český kontext zatím neověřen.
 - [[futurism-2023]] jsou jednotlivé investigativní případy — ilustrují riziko, neměří jeho
   velikost.
 
@@ -40,4 +50,4 @@ Interní pravidla pro AI mají [[seznam|Seznam Zprávy]] a [[cesky-rozhlas|Česk
 u řady dalších velkých vydavatelů jasná veřejná pravidla chybějí (viz [[exo-zurnalistika]]).
 
 ## Zdroje
-- [[khatiwada-2026]], [[futurism-2023]]
+- [[khatiwada-2026]], [[futurism-2023]], [[valenzuela-2026]], [[zier-diakopoulos-2026]]

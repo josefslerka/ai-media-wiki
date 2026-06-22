@@ -3,7 +3,7 @@ title: Důvěra a konverzační rozhraní
 type: koncept
 tags: [důvěra, chování, ověřování]
 updated: 2026-06-21
-zdroje: [jacob-2025, egan-2026-dnr, deverna-2024, maeda-quan-haase-2024, gillespie-lockey-2025, gerlich-2025, barcaui-2025]
+zdroje: [jacob-2025, egan-2026-dnr, deverna-2024, maeda-quan-haase-2024, gillespie-lockey-2025, gerlich-2025, barcaui-2025, valenzuela-2026]
 publish: true
 ---
 
@@ -37,6 +37,9 @@ náklady na přijetí hotové odpovědi a může oslabovat motivaci k ověřová
   ([[maeda-quan-haase-2024|Maeda & Quan-Haase 2024]], FAccT).
 - Důvěra je jen jedna strana problému; druhou jsou faktické chyby a
   [[halucinace-falesne-atribuce|falešné atribuce]] — přesvědčivý formát usnadňuje jejich přijetí.
+- Vnímaná **důvěryhodnost** AI v žurnalistice závisí víc na **strukturách odpovědnosti** (lidský
+  dohled + deklarace) než na pouhé přítomnosti AI ([[valenzuela-2026]] — conjoint, N = 2 145);
+  viz [[human-in-the-loop]], [[transparentnost-deklarace-ai]].
 
 ## České specifikum
 Robustní behaviorální data pro ČR chybí; domácí materiál slouží jako lokální ilustrace —
@@ -44,5 +47,5 @@ viz [[cesky-trh]], [[cesky-rozhlas]].
 
 ## Zdroje
 - [[jacob-2025]], [[egan-2026-dnr]], [[deverna-2024]], [[maeda-quan-haase-2024]],
-  [[gillespie-lockey-2025]], [[gerlich-2025]], [[barcaui-2025]]
+  [[gillespie-lockey-2025]], [[gerlich-2025]], [[barcaui-2025]], [[valenzuela-2026]]
 - Souvisí: [[kognitivni-offloading]]

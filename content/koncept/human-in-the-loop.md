@@ -3,7 +3,7 @@ title: Human-in-the-loop
 type: koncept
 tags: [redakce, důvěra, dohled]
 updated: 2026-06-21
-zdroje: [wu-2024, fletcher-verckist-2025, cools-diakopoulos-2024, cesky-rozhlas-2025, nfnz-debata]
+zdroje: [wu-2024, fletcher-verckist-2025, cools-diakopoulos-2024, cesky-rozhlas-2025, nfnz-debata, valenzuela-2026, zier-diakopoulos-2026]
 publish: true
 ---
 
@@ -16,6 +16,12 @@ který ručí za ověření, kontext a formulaci.
   našel zkreslení zpravodajství zhruba ve **45 % případů** ([[fletcher-verckist-2025]],
   [[cesky-rozhlas-2025]]). Při takové míře selhání je dohledatelný lidský editor poslední
   pojistka, ne formalita.
+- **Dohled publikum opravdu oceňuje — a teď i kauzálně.** Předregistrovaný conjoint experiment
+  v Chile (N = 2 145) zjistil, že **lidský dohled je nejsilnější pozitivní prediktor** vnímané
+  důvěryhodnosti i výběru média; publikum reaguje víc na strukturu odpovědnosti než na pouhou
+  přítomnost AI ([[valenzuela-2026]] — silná). Viditelný dohled je i hlavní signál, jímž si čtenáři
+  odvozují důvěru ([[zier-diakopoulos-2026]] — kvalitativní). Dosud jsme to drželi spíš normativně;
+  teď to má silnou empirickou kotvu.
 - **Dohledatelný autor/editor u každého výstupu.** Report doporučuje (doporučení #4), aby za
   každým obsahem mířícím k publiku stála konkrétní lidská odpovědnost za ověření a kontext.
 - Média staví legitimitu na tom, že výrok lze přiřadit zdroji, kontextu a odpovědnosti.
@@ -44,4 +50,4 @@ kde někdo opravdu ověřuje.
 
 ## Zdroje
 - [[wu-2024]], [[fletcher-verckist-2025]], [[cools-diakopoulos-2024]], [[cesky-rozhlas-2025]],
-  [[nfnz-debata]]
+  [[nfnz-debata]], [[valenzuela-2026]], [[zier-diakopoulos-2026]]
