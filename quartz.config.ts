@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "cs-CZ",
-    baseUrl: "josefslerka.github.io/ai-media-wiki",
+    baseUrl: "www.aiamedia.cz",
     ignorePatterns: ["raw", "CLAUDE.md", "STYLE.md", "PROMPTY.md", "README.md", "log.md", ".obsidian", "**/*.pdf"],
     defaultDateType: "modified",
     theme: {
