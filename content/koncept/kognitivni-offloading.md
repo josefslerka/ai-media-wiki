@@ -3,7 +3,7 @@ title: Kognitivní offloading a vypůjčená kompetence
 type: koncept
 tags: [důvěra, chování, ověřování, kognice]
 updated: 2026-06-21
-zdroje: [gerlich-2025, barcaui-2025, benedek-sziklai-2025, deverna-2024]
+zdroje: [gerlich-2025, barcaui-2025, benedek-sziklai-2025, deverna-2024, lenharo-2026]
 publish: true
 ---
 
@@ -25,13 +25,19 @@ oslabovat motivaci k vlastnímu zpracování.
 - **Over-reliance** — nadměrné spoléhání je ve vzdělávacím kontextu spojeno s **poklesem
   znalostí** ([[benedek-sziklai-2025|Benedek & Sziklai 2025]]). ⚠️ **Preprint** (arXiv),
   nerecenzováno — ber jako mechanismus/hypotézu, ne důkaz.
+- **Deskilling i u expertů** — v *Lancet Gastroenterol. Hepatol.* (2025) klesla zkušeným
+  endoskopistům (každý ≥2 000 výkonů) **bez AI** míra detekce adenomů z **28,4 % na 22,4 %** poté,
+  co si zvykli na AI nástroj; RCT 52 inženýrů (Anthropic, preprint) ukázal **rozpojení výkonu
+  a učení** (s AI 50 % vs 67 % bez AI ve znalostním kvízu) — [[lenharo-2026|Lenharo 2026, Nature]].
+  Domény medicíny a programování → pro žurnalistiku **analogie**, ne přímý důkaz.
 - **Oslabení rozlišování** — AI fact-checking nezlepšuje rozpoznání pravdivých/nepravdivých
   titulků; když si model nebyl jistý nebo chyboval, část lidí se přesto přiklonila
   k hodnocení stroje a oslabila vlastní orientaci ([[deverna-2024|DeVerna et al. 2024]],
   preregistrace, 2 000+ resp., PNAS).
 
 ## Výhrady a otevřené otázky
-- Většina dokladů je z **vzdělávací nebo obecné domény**, ne přímo ze zpravodajství.
+- Většina dokladů je z **vzdělávací, medicínské, programátorské nebo obecné domény**, ne přímo
+  ze zpravodajství — pro newsroom jde o **analogii**.
 - ⚠️ **Korelace ≠ kauzalita** (zejména [[gerlich-2025]]); část dokladů je preprint.
 - Pro žurnalistiku plyne **užší závěr**: konverzační rozhraní mohou snižovat **motivaci
   k ověřování**, ne že by AI „ničila myšlení".
@@ -40,5 +46,5 @@ oslabovat motivaci k vlastnímu zpracování.
 Robustní behaviorální data pro ČR chybí; viz [[duvera-konverzacni-rozhrani]] → [[cesky-trh]].
 
 ## Zdroje
-- [[gerlich-2025]], [[barcaui-2025]], [[benedek-sziklai-2025]], [[deverna-2024]]
+- [[gerlich-2025]], [[barcaui-2025]], [[benedek-sziklai-2025]], [[deverna-2024]], [[lenharo-2026]]
 - Souvisí: [[duvera-konverzacni-rozhrani]], [[exo-zurnalistika]], [[human-in-the-loop]]

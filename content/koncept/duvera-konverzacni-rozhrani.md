@@ -3,7 +3,7 @@ title: Důvěra a konverzační rozhraní
 type: koncept
 tags: [důvěra, chování, ověřování]
 updated: 2026-06-21
-zdroje: [jacob-2025, egan-2026-dnr, deverna-2024, maeda-quan-haase-2024, gillespie-lockey-2025, gerlich-2025, barcaui-2025, valenzuela-2026]
+zdroje: [jacob-2025, egan-2026-dnr, deverna-2024, maeda-quan-haase-2024, gillespie-lockey-2025, gerlich-2025, barcaui-2025, valenzuela-2026, lenharo-2026]
 publish: true
 ---
 
@@ -25,7 +25,8 @@ náklady na přijetí hotové odpovědi a může oslabovat motivaci k ověřová
   rozhraní roste nejrychleji tam, kde už vazba na značku média byla nejslabší.
 - **[[kognitivni-offloading|Kognitivní offloading]] / vypůjčená kompetence** — intenzivní
   spoléhání **koreluje** se slabším kritickým myšlením ([[gerlich-2025|Gerlich 2025]] — korelace,
-  ne kauzalita), a **RCT** ukázal nižší retenci po 45 dnech (57,5 vs 68,5 %, [[barcaui-2025|Barcaui 2025]]).
+  ne kauzalita), a **RCT** ukázal nižší retenci po 45 dnech (57,5 vs 68,5 %, [[barcaui-2025|Barcaui 2025]]);
+  deskilling se začíná projevovat i u expertů (medicína, programování — [[lenharo-2026]], analogicky).
 - **Chat-chamber effect** — raný pojem: přesvědčivý dialogický formát usnadňuje přijetí
   neověřených tvrzení ([[jacob-2025]]). Pracuj s ním jako s hypotézou, ne diagnózou.
 

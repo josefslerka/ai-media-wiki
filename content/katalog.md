@@ -121,3 +121,4 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[noreika-2026|Noreika 2026]] ⚠️ — slabý zdroj, jen ilustrace
 - [[gijn-2026|GIJN / Pulitzer Center 2026]] — metodická příručka „AI accountability reporting"
 - [[niemanlab-2026|NiemanLab 2026]] ⚠️ — update AI Overviews („Subscribed" labely), Googlovy claimy
+- [[lenharo-2026|Lenharo 2026 (Nature)]] — deskilling: AI eroduje dovednosti i u expertů
