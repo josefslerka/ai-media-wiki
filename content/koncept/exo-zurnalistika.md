@@ -3,7 +3,7 @@ title: Exo-žurnalistika
 type: koncept
 tags: [redakce, workflow, autorství]
 updated: 2026-06-21
-zdroje: [tejedor-vila-2021, wu-2024, cools-diakopoulos-2024, doshi-hauser-2024, sanchez-munoz-2026, zhao-berman-2025, nfnz-debata]
+zdroje: [tejedor-vila-2021, wu-2024, cools-diakopoulos-2024, doshi-hauser-2024, sanchez-munoz-2026, zhao-berman-2025, nfnz-debata, gijn-2026]
 publish: true
 ---
 
@@ -36,6 +36,11 @@ nástroje, ale o udržení lidské autority v klíčových bodech workflow.
   **El Espectador** (na WhatsAppu) zkoušejí konverzační asistenty nad vlastním obsahem —
   „vyhledávač-syntetizér", zatím raná praxe, ne náhrada článku či homepage ([[sanchez-munoz-2026|Sánchez-Muñoz
   et al. 2026]] — ⚠️ jen dvě case studies, slabá síla).
+- **AI není jen nástroj a hrozba, ale i nový investigativní obor.** Vzniká specializace
+  **„AI accountability reporting"** — držet AI k odpovědnosti napříč fázemi (trénovací data
+  a skrytá práce dataařů, datacentra, bias modelů, reálné aplikace). Žurnalistika tak v éře AI
+  **získává kompetenci, ne jen ztrácí provoz** ([[gijn-2026|GIJN / Pulitzer Center 2026]] —
+  metodická příručka).
 - **Transparentnost:** generování ≠ publikování — viz [[transparentnost-deklarace-ai]]
   a [[synteticky-obsah|označování syntetického obsahu]].
 
@@ -50,4 +55,4 @@ chybějí. Z praxe: **Pavel Kasík** (Seznam Zprávy) používá AI jako **opone
 
 ## Zdroje
 - [[tejedor-vila-2021]], [[wu-2024]], [[cools-diakopoulos-2024]], [[doshi-hauser-2024]],
-  [[sanchez-munoz-2026]], [[nfnz-debata]]
+  [[sanchez-munoz-2026]], [[nfnz-debata]], [[gijn-2026]]

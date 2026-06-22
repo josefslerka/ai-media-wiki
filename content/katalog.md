@@ -116,3 +116,4 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[cesky-rozhlas-2025|Český rozhlas 2025]] — test EBU, zkreslení ve 45 %
 - [[futurism-2023|Futurism 2023]] — skryté AI články CNET / Sports Illustrated
 - [[noreika-2026|Noreika 2026]] ⚠️ — slabý zdroj, jen ilustrace
+- [[gijn-2026|GIJN / Pulitzer Center 2026]] — metodická příručka „AI accountability reporting"
