@@ -3,7 +3,7 @@ title: Licencování a tržní asymetrie
 type: koncept
 tags: [data, licence, ekonomika]
 updated: 2026-06-21
-zdroje: [egan-2026-dnr, schaul-2023, radsch-2024, reisner-2025, commoncrawl-2025, guaglione-2025, deck-2025, prchal-2024, copyright-alliance-2026, norton-rose-2026, rsl-collective-2025, slpv-2026, nyt-v-openai, abbas-2026-unite]
+zdroje: [egan-2026-dnr, schaul-2023, radsch-2024, reisner-2025, commoncrawl-2025, guaglione-2025, deck-2025, prchal-2024, copyright-alliance-2026, norton-rose-2026, rsl-collective-2025, slpv-2026, nyt-v-openai, abbas-2026-unite, radsch-montoya-2026]
 publish: true
 ---
 
@@ -19,6 +19,15 @@ mediálním obsahu trénovat?) a **ekonomická asymetrie** (kdo z nového trhu r
   ([[radsch-2024]]); další dohody uzavřely **News Corp, CNN, USA Today, Fox News, People**.
   Menší a lokální vydavatelé zůstávají mimo → koncentrace příjmů u pár velkých hráčů
   ([[radsch-2024]], [[guaglione-2025]]).
+- **Vzniká „zprostředkovatelský" trh — nové mýtnice.** Vedle bilaterálních dohod (OpenAI ~35
+  vydavatelů; News Corp ~$250 mil./5 let) nastupují prostředníci (TollBit, Sphere, ScalePost,
+  ProRata, [[cloudflare|Cloudflare]]) — blokace/paywall, marketplace, atribuční rozdělení. **Podíl
+  pro vydavatele kolísá** (vs benchmark ~70 % tvůrcům): TollBit/Sphere 0 %, ScalePost 15 %,
+  Cloudflare ~30 %, ProRata 50 %. Hrozí ale opakování platformní závislosti a vstup Big Tech
+  (Microsoft, Amazon) na infrastrukturní vrstvu ([[radsch-montoya-2026]] — ⚠️ think-tank).
+- **Long tail zůstává mimo.** Lokální, regionální, etnická a neanglická média nemají brand ani
+  právní kapacitu k dohodám → power-law, pár velkých bere většinu hodnoty; AI firmy si navíc samy
+  vybírají, kdo dostane zaplaceno ([[radsch-montoya-2026]]).
 - ~70 % mediálních manažerů čeká nějaký příjem z licencování, většinou jen vedlejší;
   konkrétněji **49 % čeká jen minoritní příjem a 20 % žádný** (Newman 2026). Jde o
   **očekávání**, ne vykázané příjmy.

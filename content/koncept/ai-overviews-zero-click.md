@@ -3,7 +3,7 @@ title: AI Overviews a zero-click
 type: koncept
 tags: [distribuce, vyhledávání, traffic]
 updated: 2026-06-21
-zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking]
+zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking, radsch-montoya-2026]
 publish: true
 ---
 
@@ -19,7 +19,8 @@ model žurnalistiky postavený na odkazu.
 - Makrodata jsou nuancovanější, než „AI bere návštěvnost": **celková** návštěvnost je podle
   [[chartbeat-2026|Chartbeatu]] v podstatě stabilní (−5,89 % 2024→2025, v normě), propadl ale
   **search** — Google Search **−34 %**, Discover −16 %; a **nejvíc trpí malí vydavatelé**
-  (−60 % vs velcí −22 %). Příchody z AI platforem zatím <1 % zobrazení ([[semrush-2026]]).
+  (−60 % vs velcí −22 %). Příchody z AI platforem zatím <1 % zobrazení ([[semrush-2026]]; AI zero-click jen ~0,04 %
+  externích referralů a ~$2 mld. roční ztráta dle [[radsch-montoya-2026]] — ⚠️ think-tank).
 - **Dopad není rovnoměrný ani podle čerstvosti obsahu:** breaking news je odolné (Top Stories
   carousel zatím mimo AIO; AIO u zpráv jen ~15 %), zatímco evergreen padá; rostoucím kanálem se
   stává **Google Discover** ([[abbas-2026-breaking|Define Media Group]] — ⚠️ vendor, strana

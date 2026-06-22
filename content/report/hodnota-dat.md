@@ -99,6 +99,13 @@ Institute očekává 49 procent mediálních manažerů z AI licencování jen m
 procent nepředpokládá žádný příjem vůbec ([[newman-2026]]). Kolektivní licencování a standardizace
 práv tak v této fázi představují spíše obranný mechanismus než osvědčený ekonomický model.
 
+Mapa toho trhu navíc ukazuje, proč jsou obavy na místě: vedle bilaterálních dohod (jen pro
+největší značky) vzniká vrstva prostředníků — „nové mýtnice" jako TollBit, ScalePost, ProRata či
+[[cloudflare|Cloudflare]] — s velmi různým podílem pro vydavatele (od nuly po polovinu) a hrozbou,
+že na infrastrukturní vrstvu vstoupí titíž Big Tech hráči. Lokální, regionální a neanglická média
+přitom zůstávají vyloučená, takže hodnota se znovu koncentruje u pár velkých ([[radsch-montoya-2026]]
+— think-tank s protimonopolní agendou).
+
 ## Levný syntetický obsah zvyšuje tlak na celý informační prostor
 
 Debata o datech a licencování se neodehrává ve vakuu. Generativní AI snižuje náklady nejen na legitimní

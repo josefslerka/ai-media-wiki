@@ -82,6 +82,7 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[fletcher-2024|Fletcher 2024]] — kolik webů blokuje AI crawlery
 - [[gillespie-lockey-2025|Gillespie & Lockey 2025 (KPMG)]] — globální důvěra vs. užívání AI
 - [[radsch-2024|Radsch 2024 (Brookings)]] — Can journalism survive AI?
+- [[radsch-montoya-2026|Radsch & Montoya 2026 (Open Markets)]] ⚠️ — mapa AI licenčního trhu („nové mýtnice")
 
 ### Oborová analýza / data
 - [[sparktoro-datos-2025|SparkToro & Datos 2025]] — zero-click rostl už před AI

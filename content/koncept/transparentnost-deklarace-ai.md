@@ -16,8 +16,7 @@ poškodit velmi rychle**.
   **Sports Illustrated** (2023) vydával texty pod smyšlenými, AI-generovanými „autory". Po
   odhalení následoval reputační i obchodní dopad ([[futurism-2023]]).
 - **Deklarace AI důvěře neškodí, spíš mírně pomáhá.** Experiment ([[khatiwada-2026]] — ⚠️ malý
-  US MTurk vzorek ~180) zjistil, že **deklarace zapojení LLM mírně zvýšila důvěryhodnost**, aniž
-  podkopala férovost; mnohem silněji ale škodil **extrémní sentiment** v textu. ⚠️ Pozn.: teze
+  US MTurk vzorek ~180) zjistil, že **deklarace zapojení LLM mírně zvýšila důvěryhodnost**, aniž podkopala férovost; mnohem silněji ale škodil **extrémní sentiment** v textu. ⚠️ Pozn.: teze
   „**procesní deklarace ('co AI změnila a kdo ověřil') > pouhý odznak 'vytvořeno AI'**" (např.
   „AI upravila styl, fakta ověřil editor") je **doporučení reportu**, ne výsledek Khatiwady —
   ta porovnávala přítomnost/nepřítomnost deklarace, ne dva její styly.

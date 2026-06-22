@@ -58,6 +58,9 @@ kontrola obraz na několika místech zpřesnila — níže ty nejpodstatnější
   vydaly společné stanovisko k AI shrnutím chráněného obsahu. → [[cesky-trh|Český trh]]
 - **Mapa pole automatizované žurnalistiky.** Systematizovaný přehled 185 studií z let 2012–2024
   ukazuje, jak rychle a roztříštěně obor roste. → [[synteticky-obsah|Syntetický obsah]], [[exo-zurnalistika|Exo-žurnalistika]]
+- **Mapa trhu s AI licencemi.** Vedle dohod pro největší značky vzniká vrstva prostředníků („nové
+  mýtnice") s velmi různým podílem pro vydavatele; lokální a menší média zůstávají vyloučená.
+  → [[licencovani-trzni-asymetrie|Licencování a tržní asymetrie]]
 
 ## Jak se báze aktualizuje
 

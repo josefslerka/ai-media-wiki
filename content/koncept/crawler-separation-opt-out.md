@@ -3,7 +3,7 @@ title: Oddělení crawlerů a opt-out
 type: koncept
 tags: [data, regulace, technika, opt-out]
 updated: 2026-06-21
-zdroje: [prchal-2024, deck-2025, palmieri-hufnagel-2026, zhao-berman-2025, copyright-alliance-2026, norton-rose-2026, abbas-2026-unite]
+zdroje: [prchal-2024, deck-2025, palmieri-hufnagel-2026, zhao-berman-2025, copyright-alliance-2026, norton-rose-2026, abbas-2026-unite, radsch-montoya-2026]
 publish: true
 ---
 
@@ -28,6 +28,10 @@ pro trénink modelů a jiný pro generativní funkce (AI Overviews, AI Mode).
   Tavily) berou i obsah za paywallem (jen **4 % z 220 vydavatelů** blokuje Exabot). **Provoz botů
   už překonal lidský**; odtud strategie „block by default, allow by agreement" i úvahy zablokovat
   i Googlebot ([[abbas-2026-unite]] — ⚠️ advokační aktér, strana vydavatelů).
+- **Z blokace se stává trh.** K lednu 2026 blokuje AI crawlery **88 % top US webů**; obcházení
+  `robots.txt` AI boty vzrostlo z **3,3 % (Q4 2024) na 12,9 % (3/2025)**. Vedle prosté blokace
+  nastupuje **pay-per-crawl** (TollBit, [[cloudflare|Cloudflare]] ~20–30 % podíl) — opt-out se mění
+  na mýtnici ([[radsch-montoya-2026]] — ⚠️ think-tank).
 - Právní rámec sporu (fair use, legalita sběru) je oddělený od této technické roviny
   ([[copyright-alliance-2026]], [[norton-rose-2026]]).
 
