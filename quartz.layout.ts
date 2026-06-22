@@ -49,10 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.ConditionalRender({
-      component: Component.AiDisclosure(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    Component.AiDisclosure(),
   ],
   left: [
     Component.PageTitle(),
