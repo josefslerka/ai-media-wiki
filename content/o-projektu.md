@@ -28,7 +28,7 @@ který argumentuje pro transparentnost médií, by ji měl držet sám na sobě.
 
 ## Živý dokument
 
-Tohle není hotová studie, ale **prolinkovaný garden**, který se mění s přibýváním zdrojů —
+Tohle není hotová studie, ale **prolinkovaná živá báze**, která se mění s přibýváním zdrojů —
 některé stránky jsou robustní, jiné jsou zatím náčrt nebo otevřená otázka. Sílu důkazu
 u každého tvrzení označujeme explicitně a co báze neumí doložit, drží vědomě jako mezeru
 ([[otevrene-otazky|otevřené otázky a datové mezery]]). Datum poslední aktualizace u každé

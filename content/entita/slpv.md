@@ -9,6 +9,9 @@ publish: true
 Český **kolektivní správce práv vydavatelů tiskových publikací**. Vytváří rámec, aby český
 trh nevyjednával s globálními AI firmami roztříštěně, ale koordinovaně.
 
+> ⚠️ **Advokační aktér** — hájí zájmy vydavatelů (je kolektivním správcem jejich práv). Jeho
+> postoje a tisková sdělení čti jako pozici zainteresované strany, ne jako neutrální výklad.
+
 ## Co od nich v bázi máme
 - Získání oprávnění k výkonu kolektivní správy ([[slpv-2026]]); Ministerstvem kultury
   **autorizován v březnu 2025** zastupovat hlavní hráče při vyjednávání s platformami.

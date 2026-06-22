@@ -3,10 +3,15 @@ import * as Component from "./quartz/components"
 
 // Explorer řazení: složku „report" napevno nahoru, kapitoly číselně (1., 2., …)
 const explorerSort = (a, b) => {
-  const aRep = a.isFolder && a.displayName.toLowerCase() === "report"
-  const bRep = b.isFolder && b.displayName.toLowerCase() === "report"
-  if (aRep && !bRep) return -1
-  if (bRep && !aRep) return 1
+  // 0 = složka „report" (nahoře), 1 = stránka „O projektu", 2 = ostatní
+  const rank = (n) => {
+    if (n.isFolder && n.displayName.toLowerCase() === "report") return 0
+    if (!n.isFolder && n.displayName.toLowerCase() === "o projektu") return 1
+    return 2
+  }
+  const ra = rank(a)
+  const rb = rank(b)
+  if (ra !== rb) return ra - rb
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
     return a.displayName.localeCompare(b.displayName, undefined, {
       numeric: true,

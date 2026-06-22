@@ -16,7 +16,7 @@ VAULT = "/Users/josefslerka/vault/ai-media-wiki"
 OUT   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content")
 # adresáře vaultu, které se publikují (zbytek se ignoruje úplně)
 INCLUDE_DIRS = ["wiki", "koncept", "entita", "zdroj", "report"]
-INCLUDE_ROOT_FILES = ["index.md", "katalog.md"]
+INCLUDE_ROOT_FILES = ["index.md", "katalog.md", "o-projektu.md"]
 # pojistka: tyhle se nepublikují, ani kdyby měly publish:true
 NEVER = {"CLAUDE.md", "STYLE.md", "log.md", "PROMPTY.md", "README.md"}
 

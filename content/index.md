@@ -21,7 +21,8 @@ budou mít média, která dokážou rozlišit mezi tím, co může AI zrychlit, 
 lidskou odpovědností: ověřování, úsudek, interpretace, terénní práce a budování důvěry.
 
 Tato úvodní stránka je manažerským shrnutím. Plný argument je rozepsaný v kapitolách níže a každá
-z nich vede hustými odkazy do [[katalog|gardenu]] — k pojmům, aktérům a konkrétním zdrojům.
+z nich je hustě prolinkovaná na související pojmy, aktéry a konkrétní zdroje, které mají vlastní
+stránky.
 
 ## Pět stěžejních poznatků
 

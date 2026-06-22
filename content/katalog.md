@@ -40,7 +40,7 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[google|Google]] · [[openai|OpenAI]] · [[cloudflare|Cloudflare]] ⚠️ · [[common-crawl|Common Crawl]] ⚠️
 
 ### Licencování a kolektivní správa
-- [[rsl-collective|RSL Collective]] ⚠️ · [[slpv|SLPV]] · [[aov|AOV]]
+- [[rsl-collective|RSL Collective]] ⚠️ · [[slpv|SLPV]] ⚠️ · [[aov|AOV]] ⚠️
 
 ### České prostředí
 - [[seznam|Seznam.cz]] · [[cesky-rozhlas|Český rozhlas]] · [[ctk|ČTK]] · [[spir|SPIR]] ⚠️
