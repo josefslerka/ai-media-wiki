@@ -3,7 +3,7 @@ title: AI Overviews a zero-click
 type: koncept
 tags: [distribuce, vyhledávání, traffic]
 updated: 2026-06-21
-zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking, radsch-montoya-2026]
+zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking, radsch-montoya-2026, niemanlab-2026]
 publish: true
 ---
 
@@ -41,6 +41,10 @@ model žurnalistiky postavený na odkazu.
   ([[khosravi-yoganarasimhan-2026]]); složitější a kontextová témata drží odolnost lépe.
 - Defenzivní reakce vydavatelů: [[generativni-optimalizace|AEO a GEO]] (experimentální, ne
   ověřené řešení).
+- **Rozhraní se vyvíjí — dvojsečně.** Google AI Overviews/AI Mode iteruje: pro-publisher tweaky
+  (label „Subscribed" u předplácených médií, víc citací, hover náhledy; Google tvrdí „významně
+  častější" proklik — ⚠️ vlastní údaj) vs. sekce „Further Exploration" a panely z Redditu/fór,
+  které klasické odkazy tlačí níž ([[niemanlab-2026]] — slabá, mediální).
 - **Odpovědnost za výstup:** mnichovský soud označil AI Overviews za „vlastní obsah Googlu"
   (Google odpovídá za chyby, odvolává se) → [[foo-2026]], [[halucinace-falesne-atribuce]].
 

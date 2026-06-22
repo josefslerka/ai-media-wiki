@@ -120,3 +120,4 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[futurism-2023|Futurism 2023]] — skryté AI články CNET / Sports Illustrated
 - [[noreika-2026|Noreika 2026]] ⚠️ — slabý zdroj, jen ilustrace
 - [[gijn-2026|GIJN / Pulitzer Center 2026]] — metodická příručka „AI accountability reporting"
+- [[niemanlab-2026|NiemanLab 2026]] ⚠️ — update AI Overviews („Subscribed" labely), Googlovy claimy

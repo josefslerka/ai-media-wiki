@@ -12,6 +12,9 @@ vydavatelů nad obsahem.
 
 ## Co od nich v bázi máme
 - AI Overviews / AI Mode jako zdroj propadu zero-click návštěvnosti → [[ai-overviews-zero-click]].
+- **Update AIO (5/2026):** label „Subscribed" u předplácených médií + víc citací a hover náhledy
+  (Google tvrdí vyšší proklik — ⚠️ vlastní údaj), zároveň sekce „Further Exploration" a panely
+  z Redditu/fór tlačí klasické odkazy níž ([[niemanlab-2026]]).
 - Opt-out z tréninku Gemini se nemusí vztahovat na nasazení v Search/AI Overviews
   ([[deck-2025]]) → [[crawler-separation-opt-out]].
 - Antitrustové řízení a debata o oddělení crawlerů (britská CMA).
