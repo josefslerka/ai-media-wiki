@@ -10,7 +10,7 @@ export const GoogleSiteVerification: QuartzEmitterPlugin = () => ({
   async emit(ctx) {
     const path = await write({
       ctx,
-      content: `google-site-verification: ${TOKEN}.html\n`,
+      content: `google-site-verification: ${TOKEN}.html`,
       slug: TOKEN as FullSlug,
       ext: ".html",
     })
