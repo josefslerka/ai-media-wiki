@@ -15,4 +15,6 @@ Infrastrukturní firma (CDN, ochrana webů), která se v debatě profiluje jako 
 ## Co od nich v bázi máme
 - Stanovisko ke konzultaci britské CMA: vydavatelé mají umět povolit indexaci a samostatně
   blokovat generativní využití obsahu ([[palmieri-hufnagel-2026]]).
+- Perplexity používal stealth crawling (předstíral Chrome, rotoval ASN), odhalen Cloudflare
+  honeypotem; podle Cloudflare Radar už **provoz botů překonal lidský** ([[abbas-2026-unite]]).
 - → [[crawler-separation-opt-out]], [[google]].

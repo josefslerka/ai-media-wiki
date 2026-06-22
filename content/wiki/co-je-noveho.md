@@ -39,6 +39,9 @@ kontrola obraz na několika místech zpřesnila — níže ty nejpodstatnější
   falešné atribuce a citace, které vypadají doloženě, ale zdroj tvrzení nepodporuje. → [[halucinace-falesne-atribuce|Halucinace a falešné atribuce]]
 - **Učení s AI oslabuje dlouhodobou paměť.** Randomizovaný experiment naměřil u studentů, kteří
   se učili s ChatGPT, nižší vybavení znalostí po pětačtyřiceti dnech (57,5 vs 68,5 procenta). → [[kognitivni-offloading|Kognitivní offloading]], [[barcaui-2025]]
+- **Dopad na zprávy není plošný podle čerstvosti.** Breaking news si v AI vyhledávání zatím drží
+  pozici (a roste přes Google Discover), zatímco evergreen obsah ztrácí — vendor data, tedy
+  indikace. → [[ai-overviews-zero-click|AI Overviews a zero-click]]
 
 ## Co nově přibylo
 

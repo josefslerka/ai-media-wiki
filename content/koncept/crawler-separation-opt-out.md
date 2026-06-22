@@ -3,7 +3,7 @@ title: Oddělení crawlerů a opt-out
 type: koncept
 tags: [data, regulace, technika, opt-out]
 updated: 2026-06-21
-zdroje: [prchal-2024, deck-2025, palmieri-hufnagel-2026, zhao-berman-2025, copyright-alliance-2026, norton-rose-2026]
+zdroje: [prchal-2024, deck-2025, palmieri-hufnagel-2026, zhao-berman-2025, copyright-alliance-2026, norton-rose-2026, abbas-2026-unite]
 publish: true
 ---
 
@@ -23,6 +23,11 @@ pro trénink modelů a jiný pro generativní funkce (AI Overviews, AI Mode).
 - **Plošná blokace všech botů škodí i lidské návštěvnosti** — u velkých webů vedlo zablokování
   botů k poklesu celkové i lidské návštěvnosti (ztráta citovanosti v nových rozhraních); obrana
   má cenu, ale i náklady ([[zhao-berman-2025]] — ⚠️ working paper, indikativní, ne pravidlo).
+- **Crawleři obcházejí `robots.txt`:** Perplexity používal stealth crawling (předstíral Chrome,
+  rotoval ASN — odhalen [[cloudflare|Cloudflare]] honeypotem), backdoor crawleři (Exa, Firecrawl,
+  Tavily) berou i obsah za paywallem (jen **4 % z 220 vydavatelů** blokuje Exabot). **Provoz botů
+  už překonal lidský**; odtud strategie „block by default, allow by agreement" i úvahy zablokovat
+  i Googlebot ([[abbas-2026-unite]] — ⚠️ advokační aktér, strana vydavatelů).
 - Právní rámec sporu (fair use, legalita sběru) je oddělený od této technické roviny
   ([[copyright-alliance-2026]], [[norton-rose-2026]]).
 

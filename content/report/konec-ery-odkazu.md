@@ -94,6 +94,11 @@ objevují u servisního, lifestylového nebo obecně komoditizovaného obsahu. M
 vykazují složitější a specializovanější témata, kde uživatel častěji potřebuje širší kontext,
 expertní interpretaci nebo ověření detailů ([[khosravi-yoganarasimhan-2026]]).
 
+Jiná oborová data k tomu přidávají rozměr čerstvosti: zatímco evergreen obsah ztrácí, **breaking
+news naopak roste** — Top Stories carousel zatím zůstává mimo AI souhrny a rostoucím kanálem se
+stává Google Discover ([[abbas-2026-breaking|Define Media Group]]; vendor na straně vydavatelů,
+takže spíš indikace než tvrdé číslo). 
+
 Stejnou logiku potvrzuje [[reuters-institute|Reuters Institute]] na úrovni redakčních strategií.
 Mediální manažeři uvádějí, že chtějí omezovat servisní žurnalistiku, evergreen obsah a rychlé
 přepisování a posilovat investigativu, terénní práci, kontextové analýzy a další formáty, které

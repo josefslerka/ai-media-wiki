@@ -3,7 +3,7 @@ title: AI Overviews a zero-click
 type: koncept
 tags: [distribuce, vyhledávání, traffic]
 updated: 2026-06-21
-zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026]
+zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking]
 publish: true
 ---
 
@@ -20,6 +20,10 @@ model žurnalistiky postavený na odkazu.
   [[chartbeat-2026|Chartbeatu]] v podstatě stabilní (−5,89 % 2024→2025, v normě), propadl ale
   **search** — Google Search **−34 %**, Discover −16 %; a **nejvíc trpí malí vydavatelé**
   (−60 % vs velcí −22 %). Příchody z AI platforem zatím <1 % zobrazení ([[semrush-2026]]).
+- **Dopad není rovnoměrný ani podle čerstvosti obsahu:** breaking news je odolné (Top Stories
+  carousel zatím mimo AIO; AIO u zpráv jen ~15 %), zatímco evergreen padá; rostoucím kanálem se
+  stává **Google Discover** ([[abbas-2026-breaking|Define Media Group]] — ⚠️ vendor, strana
+  vydavatelů). 
 - Na úrovni návštěvnosti odhaduje [[khosravi-yoganarasimhan-2026]] po nasazení AI Overviews
   pokles ~15 % na **52 262 anglických článcích** Wikipedie (difference-in-differences proti
   jiným jazykům) — kauzální design, ale preprint a specifické prostředí.

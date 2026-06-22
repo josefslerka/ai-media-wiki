@@ -3,7 +3,7 @@ title: Licencování a tržní asymetrie
 type: koncept
 tags: [data, licence, ekonomika]
 updated: 2026-06-21
-zdroje: [egan-2026-dnr, schaul-2023, radsch-2024, reisner-2025, commoncrawl-2025, guaglione-2025, deck-2025, prchal-2024, copyright-alliance-2026, norton-rose-2026, rsl-collective-2025, slpv-2026, nyt-v-openai]
+zdroje: [egan-2026-dnr, schaul-2023, radsch-2024, reisner-2025, commoncrawl-2025, guaglione-2025, deck-2025, prchal-2024, copyright-alliance-2026, norton-rose-2026, rsl-collective-2025, slpv-2026, nyt-v-openai, abbas-2026-unite]
 publish: true
 ---
 
@@ -25,9 +25,11 @@ mediálním obsahu trénovat?) a **ekonomická asymetrie** (kdo z nového trhu r
 - **Právní rovina** (legitimita dat, fair use, [[nyt-v-openai|spor NYT vs. OpenAI]]) je
   oddělená od ekonomické ([[copyright-alliance-2026]] — ⚠️ hájí držitele práv; [[norton-rose-2026]]).
   Regulatorní rámec viz [[regulace-eu-ai-act-dsa]].
-- Kolektivní řešení ([[rsl-collective|RSL Collective]], [[slpv|SLPV]], oborové aliance) se
-  teprve rodí — zatím spíš obranný mechanismus než ověřený ekonomický model
-  ([[rsl-collective-2025]], [[slpv-2026]]).
+- Kolektivní řešení ([[rsl-collective|RSL Collective]], [[slpv|SLPV]], oborové aliance jako News
+  Media Alliance) a monetizační/licenční protokoly (TollBit, Prorata, x402, IAB) se teprve rodí —
+  zatím spíš obranný mechanismus než ověřený ekonomický model ([[rsl-collective-2025]],
+  [[slpv-2026]], [[abbas-2026-unite]] — ⚠️ strana vydavatelů). Marginální přínos AI dokládá i podíl
+  **0,27 % návštěvnosti** zpravodajství z generativní AI (SimilarWeb, [[abbas-2026-unite]]).
 - Technická obrana přístupu k obsahu → [[crawler-separation-opt-out]]; tlak na levný
   [[synteticky-obsah]] zvyšuje hodnotu původního obsahu.
 

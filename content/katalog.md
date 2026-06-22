@@ -87,6 +87,8 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[semrush-2026|Semrush 2026]] — ChatGPT clickstream, referral z AI < 1 %
 - [[marketing-miner-2026|Marketing Miner 2026]] ⚠️ — AI viditelnost značek v ČR
 - [[spir-2025|SPIR 2025]] ⚠️ — propady servisního/zájmového obsahu (data NetMonitoru)
+- [[abbas-2026-breaking|Define Media Group 2026 — breaking vs. evergreen]] ⚠️ — heterogenita dopadu AIO, Discover
+- [[abbas-2026-unite|Define Media Group 2026 — Publishers, Unite!]] ⚠️ — blokace botů, 0,27 % AI referral
 
 ### Právní / regulatorní
 - [[nyt-v-openai|NYT v. OpenAI & Microsoft]] — modelový spor o trénink (probíhající)
