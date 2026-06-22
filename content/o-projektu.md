@@ -12,10 +12,14 @@ a odpovědnost, drží se týchž pravidel i ve způsobu, jakým vzniká.
 
 ## Jak tahle báze vzniká (deklarace AI)
 
-Obsah **generuje a udržuje AI agent** z kurátorovaných zdrojů ve složce `raw/`. **Výběr
-zdrojů, jejich posouzení a finální odpovědnost jsou lidské**; reference a fakta procházejí
-lidskou revizí, než jdou ven. Generování není publikování — co se objeví na webu, projde
-lidskou editací (princip [[human-in-the-loop|human-in-the-loop]]).
+Obsah **připravuje a udržuje AI agent** z kurátorovaných zdrojů ve složce `raw/`. **Výběr
+zdrojů, jejich posouzení a finální odpovědnost jsou lidské**; klíčová tvrzení, citace a zařazení
+nových zdrojů procházejí lidskou kontrolou — ne ovšem každá věta jednotlivě. Generování není
+publikování — co jde na web, schvaluje člověk (princip [[human-in-the-loop|human-in-the-loop]]).
+
+Míra lidského vstupu se liší podle vrstvy: **report** (úvodní stránka a kapitoly) vychází
+z lidsky revidovaného narativu, kdežto **jednotlivá hesla** (pojmy, aktéři, zdroje) jsou
+AI-připravené drafty pod lidským dohledem na úrovni výběru a schválení.
 
 Tahle deklarace je **procesní, ne jen odznak.** Místo pouhého „vytvořeno AI" říká, *co AI
 dělá a kdo za výstup ručí*. Vychází to z vlastního zjištění báze: experimentální studie

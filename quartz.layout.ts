@@ -32,8 +32,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "O projektu": "/o-projektu",
+      Katalog: "/katalog",
+      "Co je nového": "/co-je-noveho",
     },
   }),
 }
@@ -48,6 +49,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.AiDisclosure(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
