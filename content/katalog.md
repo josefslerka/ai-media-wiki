@@ -16,7 +16,7 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 
 ## Koncepty
 - [[ai-overviews-zero-click|AI Overviews a zero-click]] — odpovídací rozhraní vs. distribuce
-- [[monetizace-ai-odpovedi|Monetizace AI odpovědí]] — platforma inkasuje reklamu z odpovědi samotné (draft)
+- [[monetizace-ai-odpovedi|Monetizace AI odpovědí]] — platforma inkasuje reklamu z odpovědi samotné
 - [[generativni-optimalizace|Generativní optimalizace (AEO, GEO)]] — experimentální odpověď na AI vyhledávání
 - [[duvera-konverzacni-rozhrani|Důvěra a konverzační rozhraní]] — chat-chamber, parasociální důvěra, offloading
 - [[kognitivni-offloading|Kognitivní offloading]] — vypůjčená kompetence, oslabení ověřování
