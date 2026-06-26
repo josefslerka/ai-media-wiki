@@ -2,7 +2,7 @@
 title: Seznam.cz
 type: entita
 tags: [česko, platforma, vydavatel]
-updated: 2026-06-21
+updated: 2026-06-26
 publish: true
 ---
 
@@ -15,3 +15,7 @@ a konverzační prvky. Seznam Zprávy patří mezi redakce s interními pravidly
   [[ai-overviews-zero-click|odpovídacích rozhraní]] na domácím trhu → [[cesky-trh]].
 - **Seznam Zprávy: interní AI pravidla**; perspektiva Pavla Kasíka (AI jako oponent před
   psaním) → [[exo-zurnalistika]], [[nfnz-debata]].
+- **[[monetizace-ai-odpovedi|Monetizace AI odpovědí]].** Seznam Asistent zobrazuje pod
+  odpověďmi reklamu z Skliku („Sponzorované výsledky", max 2 inzeráty) a od května 2026
+  i nabídky ze Seznam Nákupů → platforma monetizuje **odpověď samotnou**, ne proklik na
+  vydavatele ([[majerova-2026]] — ⚠️ firemní oznámení). Viz [[ai-overviews-zero-click]].

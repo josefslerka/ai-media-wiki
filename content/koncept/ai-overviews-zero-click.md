@@ -2,8 +2,8 @@
 title: AI Overviews a zero-click
 type: koncept
 tags: [distribuce, vyhledávání, traffic]
-updated: 2026-06-21
-zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking, radsch-montoya-2026, niemanlab-2026]
+updated: 2026-06-26
+zdroje: [chapekis-lieb-2025, khosravi-yoganarasimhan-2026, egan-2026-dnr, chartbeat-2026, semrush-2026, sparktoro-datos-2025, newman-2026, newman-2025-dnr, foo-2026, abbas-2026-breaking, radsch-montoya-2026, niemanlab-2026, majerova-2026]
 publish: true
 ---
 
@@ -30,6 +30,11 @@ model žurnalistiky postavený na odkazu.
   jiným jazykům) — kauzální design, ale preprint a specifické prostředí.
 - Napříč 27 trhy proklikne z AI chatbota na zdroj vždy/často jen 4 % lidí (vs. 19 %
   vyhledávání, 17 % sociální sítě) — [[egan-2026-dnr|DNR 2026]].
+- **Ekonomická druhá strana zero-clicku: platforma [[monetizace-ai-odpovedi|monetizuje
+  odpověď samotnou]].** Český [[seznam|Seznam]] Asistent zobrazuje pod AI odpovědí reklamu
+  z Skliku („Sponzorované výsledky", max 2) a od května 2026 i nabídky ze Seznam Nákupů —
+  komerční hodnota se realizuje v rozhraní, ne prokliknutím na vydavatele ([[majerova-2026]]
+  — ⚠️ firemní oznámení, indikativní).
 
 ## Výhrady a otevřené otázky
 - **Kauzalita není čistá.** Zero-click rostl už **před** plošným nasazením AI

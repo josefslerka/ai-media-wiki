@@ -2,8 +2,8 @@
 title: Český trh
 type: koncept
 tags: [česko, distribuce, regulace]
-updated: 2026-06-21
-zdroje: [egan-2026-dnr, spir-2025, marketing-miner-2026]
+updated: 2026-06-26
+zdroje: [egan-2026-dnr, spir-2025, marketing-miner-2026, majerova-2026]
 publish: true
 ---
 
@@ -14,6 +14,9 @@ silný důkaz.
 ## Specifika
 - **Dvojí brána.** Vedle [[google|Googlu]] silný [[seznam|Seznam.cz]] s vlastními
   sumarizačními prvky → ne jedna dominantní platforma, ale dvě. AI Overviews v ČR od května 2025.
+  Seznam navíc už **[[monetizace-ai-odpovedi|monetizuje vlastní AI odpovědi]]** — Asistent zobrazuje pod odpovědí reklamu
+  z Skliku a nabídky ze Seznam Nákupů ([[majerova-2026]] — ⚠️ firemní oznámení), tj. komerční
+  hodnotu realizuje platforma v rozhraní, ne vydavatel prokliknutím.
 - **Viditelné ztráty v segmentech.** [[spir-2025|SPIR]]/NetMonitor (konkrétní meziroční propady
   z Google): **Společenské magazíny −74 %, Auto-moto prodej −42 %, Sport −37 %**; po AI Overviews
   se tempo zrychlilo. **Zpravodajství je dočasně méně zranitelné** (Google ho v ČR kvůli vypnutí

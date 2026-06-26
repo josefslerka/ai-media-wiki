@@ -1,7 +1,7 @@
 ---
 title: Katalog
 type: index
-updated: 2026-06-21
+updated: 2026-06-26
 publish: true
 ---
 
@@ -16,6 +16,7 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 
 ## Koncepty
 - [[ai-overviews-zero-click|AI Overviews a zero-click]] — odpovídací rozhraní vs. distribuce
+- [[monetizace-ai-odpovedi|Monetizace AI odpovědí]] — platforma inkasuje reklamu z odpovědi samotné (draft)
 - [[generativni-optimalizace|Generativní optimalizace (AEO, GEO)]] — experimentální odpověď na AI vyhledávání
 - [[duvera-konverzacni-rozhrani|Důvěra a konverzační rozhraní]] — chat-chamber, parasociální důvěra, offloading
 - [[kognitivni-offloading|Kognitivní offloading]] — vypůjčená kompetence, oslabení ověřování
@@ -109,6 +110,7 @@ seřazený podle taxonomie typu a síly důkazu — silnější opora nahoře.
 - [[rsl-collective-2025|RSL Collective 2025]] ⚠️ — otevřený licenční standard
 - [[commoncrawl-2025|Common Crawl 2025]] ⚠️ — reakce na kritiku
 - [[aov-2025|AOV 2025]] ⚠️ — diferencovaná ochrana obsahu
+- [[majerova-2026|Majerová / Seznam 2026]] ⚠️ — reklama Sklik v Seznam Asistentovi (monetizace AI odpovědí)
 
 ### Mediální / investigativní
 - [[schaul-2023|Schaul et al. 2023 (WaPo)]] — co je v datasetu C4
